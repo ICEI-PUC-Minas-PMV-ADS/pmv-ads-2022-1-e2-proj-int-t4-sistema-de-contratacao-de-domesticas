@@ -14,7 +14,7 @@ O projeto trata de um sistema que fará cadastro de trabalhadores da área da li
 
 ## Integrantes
 
-* Ana Paula
+* Ana Paula dos Santos Buchholz
 * Filipe Marques Martins Pascoal
 * Tiago
 * Raquel Fernandes
