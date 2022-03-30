@@ -16,27 +16,24 @@ Definição do diagrama de personas:
 |Idade: 38                                         |Linkedin         |
 |Ocupação: Gerente de vendas hospitalares.         |Instagram        |
 
-![Patrícia dos Anjos](img/patricia.png)
+![Amanda Baião](img/amanda.png)
 |Amanda Baião                                      | Aplicativos     |
 |--------------------------------------------------|-----------------|
 |Idade: 20                                         |Facebook         |
 |Ocupação: Estudante de Antropologia               |GetNinjas        |
 
+![Luiza Aragão](img/luiza.png) 
 |Luiza Aragão                                      | Aplicativos     |
 |--------------------------------------------------|-----------------|
 |Idade: 30                                         |Facebook         |
 |Ocupação: Gerente Financeira de Banco Digital     |Bancos Digitais  |
 
+![Adolfo Luís](img/adolfo.png) 
 |Adolfo Luís                                       | Aplicativos     |
 |--------------------------------------------------|-----------------|
 |Idade: 31                                         |Facebook         |
 |Ocupação: Cozinheiro                              |Instagram        |
 
-|![Patrícia dos Anjos](img/patricia.png)           |                 |
-|Adolfo Luís                                       | Aplicativos     |
-|--------------------------------------------------|-----------------|
-|Idade: 31                                         |Facebook         |
-|Ocupação: Cozinheiro                              |Instagram        |
 
 
 ## Histórias de Usuários
