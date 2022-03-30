@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Definição do diagrama de personas:
 
-|![Patrícia dos Anjos](img/patricia.png)           |
+![Patrícia dos Anjos](img/patricia.png)           
 |Patrícia dos Anjos                                | Aplicativos     |
 |--------------------------------------------------|-----------------|
 |Idade: 38                                         |Linkedin         |
@@ -28,6 +28,11 @@ Definição do diagrama de personas:
 |Ocupação: Gerente Financeira de Banco Digital     |Bancos Digitais  |
 
 |Adolfo Luís                                       | Aplicativos     |
+|--------------------------------------------------|-----------------|
+|Idade: 31                                         |Facebook         |
+|Ocupação: Cozinheiro                              |Instagram        |
+
+![Patrícia dos Anjos](img/patricia.png) |Adolfo Luís                                       | Aplicativos     |
 |--------------------------------------------------|-----------------|
 |Idade: 31                                         |Facebook         |
 |Ocupação: Cozinheiro                              |Instagram        |
