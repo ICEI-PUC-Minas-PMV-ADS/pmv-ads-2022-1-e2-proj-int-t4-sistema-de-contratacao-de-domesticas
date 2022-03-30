@@ -32,10 +32,11 @@ Definição do diagrama de personas:
 |Idade: 31                                         |Facebook         |
 |Ocupação: Cozinheiro                              |Instagram        |
 
-![Patrícia dos Anjos](img/patricia.png) |Adolfo Luís                                       | Aplicativos     |
-                                        |--------------------------------------------------|-----------------|
-                                        |Idade: 31                                         |Facebook         |
-                                        |Ocupação: Cozinheiro                              |Instagram        |
+|![Patrícia dos Anjos](img/patricia.png)           |                 |
+|Adolfo Luís                                       | Aplicativos     |
+|--------------------------------------------------|-----------------|
+|Idade: 31                                         |Facebook         |
+|Ocupação: Cozinheiro                              |Instagram        |
 
 
 ## Histórias de Usuários
