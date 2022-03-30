@@ -10,31 +10,26 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Definição do diagrama de personas:
 
-|Patrícia dos Anjos      | Aplicativos     |
-|------------------------|-----------------|
-|Idade: 38               |Linkedin         |
-|Ocupação: Gerente de    |Instagram        |
-|loja de lojas de vendas |                 | 
+|Patrícia dos Anjos                                | Aplicativos     |
+|--------------------------------------------------|-----------------|
+|Idade: 38                                         |Linkedin         |
+|Ocupação: Gerente de vendas hospitalares.         |Instagram        |
 
-Patrícia dos Anjos 
-Idade: 38
-Ocupação: Gerente de loja de lojas de vendas de equipamentos hospitalares. 
-Aplicativos: Linkedin, Instagram 
+|Amanda Baião                                      | Aplicativos     |
+|--------------------------------------------------|-----------------|
+|Idade: 20                                         |Facebook         |
+|Ocupação: Estudante de Antropologia               |GetNinjas        |
 
-Amanda Baião 
-Idade: 20 
-Ocupação: Estudante de Antropologia 
-Aplicativos: Facebook, Linkedin, GetNinjas 
+|Luiza Aragão                                      | Aplicativos     |
+|--------------------------------------------------|-----------------|
+|Idade: 30                                         |Facebook         |
+|Ocupação: Gerente Financeira de Banco Digital     |Bancos Digitais  |
 
-Patrícia dos Anjos 
-Idade: 30 
-Ocupação: Gerente Financeira de Banco Digital. 
-Aplicativos: Facebook, Linkedin, Bancos Digitais 
+|Adolfo Luís                                       | Aplicativos     |
+|--------------------------------------------------|-----------------|
+|Idade: 31                                         |Facebook         |
+|Ocupação: Cozinheiro                              |Instagram        |
 
-Adolfo Luís 
-Idade: 30 
-Ocupação: Cozinheiro 
-Aplicativos: Facebook, Instagram 
 
 ## Histórias de Usuários
 
