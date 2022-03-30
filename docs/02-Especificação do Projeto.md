@@ -10,6 +10,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Definição do diagrama de personas:
 
+|Patrícia dos Anjos      | Aplicativos     |
+|------------------------|-----------------|
+|Idade: 38               |Linkedin         |
+|Ocupação: Gerente de    |Instagram        |
+|loja de lojas de vendas |                 | 
+
 Patrícia dos Anjos 
 Idade: 38
 Ocupação: Gerente de loja de lojas de vendas de equipamentos hospitalares. 
