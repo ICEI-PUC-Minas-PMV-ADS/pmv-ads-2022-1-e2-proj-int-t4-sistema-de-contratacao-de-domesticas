@@ -10,12 +10,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Definição do diagrama de personas:
 
-![Patrícia dos Anjos](img/patricia.png)
+|![Patrícia dos Anjos](img/patricia.png)           |
 |Patrícia dos Anjos                                | Aplicativos     |
 |--------------------------------------------------|-----------------|
 |Idade: 38                                         |Linkedin         |
 |Ocupação: Gerente de vendas hospitalares.         |Instagram        |
 
+![Patrícia dos Anjos](img/patricia.png)
 |Amanda Baião                                      | Aplicativos     |
 |--------------------------------------------------|-----------------|
 |Idade: 20                                         |Facebook         |
