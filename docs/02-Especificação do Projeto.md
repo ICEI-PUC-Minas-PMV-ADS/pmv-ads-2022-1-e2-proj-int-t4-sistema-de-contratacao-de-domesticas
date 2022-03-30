@@ -64,8 +64,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve exibir na tela principal as opções de cadastro e login  | ALTA | 
+|RF-002| O usuário deve informar nas telas de cadastro e login se será prestadora ou contratante   | MÉDIA |
+|RF-003| O usuário contratante informe a região que está situada e quais serviços irá precisar    | MÉDIA |
+|RF-004| O sistema deverá permitir que o contratante filtre as buscas por localização   | MÉDIA |
+|RF-005| O usuário prestador de serviço deve informar o valor diário do seu trabalho e quais serviços ela fornece    | MÉDIA |
+|RF-006| O sistema deve solicitar um feedback dos usuários, tanto do contratante como do prestador, ao final do serviço prestado   | MÉDIA |
+|RF-007| O sistema deve fornecer informações de contato para que os usuários possam receber suporte e/ou tirar dúvidas   | MÉDIA |
 
 ### Requisitos não Funcionais
 
