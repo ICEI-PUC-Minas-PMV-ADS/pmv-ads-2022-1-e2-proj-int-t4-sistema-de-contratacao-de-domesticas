@@ -36,12 +36,25 @@ etiquetas:
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A equipe está organizada da seguinte maneira:
+
+    • Scrum Master: xxx
+    • Product Owner: xxx
+    • Equipe de Desenvolvimento
+        ◦ xxx
+        ◦ xxx
+        ◦ xxx
+        
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
+    • Tags: lista demonstrativa com as etiquetas utilizadas na organização do projeto
+    • Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+    • To do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+    • Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+    • To Review: Quando as tarefas são concluídas, eles são movidos para a revisão. O objetivo é que as tarefas sejam revisadas por outro membro da equipe, sempre tendo um double check nas tarefas realizadas.
+    • Done: nesta lista são colocadas as tarefas que passaram pelos testes e revisões e estão prontos para ser entregues ao usuário ou levados para branch main. Não há mais edições ou revisões necessárias, a tarefa está concluída.
+    
 
 ### Processo
 
