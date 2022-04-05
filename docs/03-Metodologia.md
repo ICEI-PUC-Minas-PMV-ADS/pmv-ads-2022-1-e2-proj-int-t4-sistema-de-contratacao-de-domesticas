@@ -81,7 +81,7 @@ As ferramentas empregadas no projeto são:
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão, além de possuir extensão .NET que é essencial para o desenvolvimento da aplicação em C#. As ferramentas de comunicação utilizadas possuem
-integração semelhante e são recomendadas pelos usuários, por isso foram selecionadas. Por fim, para criar
+integração semelhante e é recomendada pela Universidade por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essas ferramentas por melhor captarem as
-necessidades da nossa solução.
+necessidades da nossa solução. Para criação do wireframa a ferramenta foi escolhida por permitir a edição colaborativa.
 
