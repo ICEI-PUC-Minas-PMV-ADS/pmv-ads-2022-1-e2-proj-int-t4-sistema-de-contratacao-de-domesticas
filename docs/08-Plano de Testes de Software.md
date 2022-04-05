@@ -23,7 +23,7 @@
 |**Requisitos Associados** |RF-002- O sistema deve conter uma opção que permita o usuário criar uma nova senha em caso de esquecimento
 |**Entrada** | Após clicar no botão "ESQUECEU A SENHA", o usuário deverá informar o email cadastrado. |
 |**Objetivo do Teste** | Verificar se os campos do formulário estão sendo exibidos corretamente.  |
-|**Passos** |1) Acessar o Navegador  2) Informar o endereço do Site  3) Visualizar a página de login  4)Esqueceu a senha 5) Informar o email, onde será enviado um link para a nova senha 11) Insira uma nova senha no campo [senha] e no campo [confirme sua senha] redigite a senha e clique no botão próximo que levará para a próxima tela |
+|**Passos** |1) Acessar o Navegador  2) Informar o endereço do Site  3) Visualizar a página de login  4)Esqueceu a senha 5) Informar o email, onde será enviado um link para a nova senha) Insira uma nova senha no campo [senha] e no campo [confirme sua senha] redigite a senha e clique no botão próximo que levará para a próxima tela |
 |**Critérios de Êxito** | Senha alterada com sucesso. |
 
 |Caso de Teste |CT-04 – Solicitação de Serviço |
