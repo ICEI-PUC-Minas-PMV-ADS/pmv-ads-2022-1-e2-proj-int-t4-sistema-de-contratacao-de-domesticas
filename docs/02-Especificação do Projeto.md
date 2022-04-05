@@ -100,8 +100,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 13/06/2022.  |
+|02| A equipe não pode subcontratar o desenvolvimento do trabalho.         |
+|03| A página inicial deve permitir o cadastro, login e alteração de senha. |
+|04| O termo de responsabilidade aceito no cadastro isenta de quaisquer ocorrências resultantes de atendimentos e comunicação entre os usuários |
+|05| A localização geográfica deverá ser restrita a usuários dentro do Brasil. |
+|06| O sistema deverá ser implementado em linguagem C#, .NET, Javascript, HTML5 e CSS3. |
+|07| Os usuários não poderão ter acesso aos dados pessoais de outros usuários. |
+|08| A aplicação deve permitir realizar cadastro de serviços. |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
