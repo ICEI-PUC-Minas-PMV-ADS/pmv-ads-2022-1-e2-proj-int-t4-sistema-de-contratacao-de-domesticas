@@ -56,6 +56,9 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - To Review: Quando as tarefas são concluídas, eles são movidos para a revisão. O objetivo é que as tarefas sejam revisadas por outro membro da equipe, sempre tendo um double check nas tarefas realizadas.
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e revisões e estão prontos para ser entregues ao usuário ou levados para branch main. Não há mais edições ou revisões necessárias, a tarefa está concluída.
     
+O quadro kanban do grupo no Trello está disponível através da URL [Trello](https://trello.com/b/1FLxIkyC/trabalho-ads-2-semestre) e é apresentado, no estado atual, na figura baixo. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
+
+![Trello](trello.png)
 
 ### Processo
 
