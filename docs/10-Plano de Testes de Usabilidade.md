@@ -16,3 +16,7 @@ Quanto tempo foi necessário para conclui-la.
 |Tarefa 1| Critério de êxito | O que será avaliado |
 |--------|-------------------|---------------------|
 |Cadastro de novo usuário|Concluir o cadastro, considerando a mensagem "Cadastro realizado com sucesso"|Concretização da tarefa. Quantidade de erros cometidos. Tempo necessario para se concluir|
+
+|Tarefa 2| Critério de êxito | O que será avaliado |
+|--------|-------------------|---------------------|
+|Fazer o ogin | Conseguir logar no sistema e ser encaminhado para a página de cadastro |Concretização da tarefa. Quantidade de erros cometidos. |
