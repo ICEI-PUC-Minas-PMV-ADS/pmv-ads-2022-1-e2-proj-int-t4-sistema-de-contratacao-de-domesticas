@@ -13,3 +13,11 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 |Objetivo do Teste| *** |
 |Passos| *** |
 |Critérios de Êxito| *** |
+
+|CASOS DE TESTE|CT_02 - Alteração de Senha|
+|--------------|---------------------------|
+|Requisitos Associados| RF-00 |
+|Entrada| *** |
+|Objetivo do Teste| *** |
+|Passos| *** |
+|Critérios de Êxito| *** |
