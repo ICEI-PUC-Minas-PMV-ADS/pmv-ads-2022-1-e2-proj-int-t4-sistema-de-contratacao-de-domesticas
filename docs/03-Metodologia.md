@@ -48,6 +48,7 @@ A equipe está organizada da seguinte maneira:
         ◦ xxx
         
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
+
     • Tags: lista demonstrativa com as etiquetas utilizadas na organização do projeto
     • Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
     • To do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
