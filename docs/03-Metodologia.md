@@ -77,7 +77,7 @@ As ferramentas empregadas no projeto são:
 - Visual Studio.
 - Microsoft Teams
 - Figma (wireframe)
-- Lucidchart (modelo E-R)
+- Lucidchart (criação de diagramas)
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão, além de possuir extensão .NET que é essencial para o desenvolvimento da aplicação em C#. As ferramentas de comunicação utilizadas possuem
