@@ -11,7 +11,7 @@ O total de erros cometidos;
 Quantos erros de cada tipo ocorreram;
 Quanto tempo foi necessário para conclui-la.
 
-## Roteiro
+### Roteiro
 
 |Tarefa 1| Critério de êxito | O que será avaliado |
 |--------|-------------------|---------------------|
@@ -21,7 +21,7 @@ Quanto tempo foi necessário para conclui-la.
 |--------|-------------------|---------------------|
 |Fazer o login no sistema | Conseguir logar no sistema e ser encaminhado para a página de cadastro |Concretização da tarefa. Quantidade de erros cometidos. |
 
-## Objetivo
+### Objetivo
 
 Fazer melhorias na plataforma proporcionando uma melhor experiência ao usuário. O que será mensurado no teste:
 
