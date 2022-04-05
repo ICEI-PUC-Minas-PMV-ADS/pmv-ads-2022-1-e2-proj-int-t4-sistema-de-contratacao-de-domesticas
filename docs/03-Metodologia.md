@@ -1,11 +1,15 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia escolhida por nós neste trabalho, será utilizada para o melhor desenvolvimento e manutenção dos códigos com o intuito de organizar a equipe na realização das tarefas.
 
 ## Controle de Versão
+
+|Ambiente|Plataforma|Link de Acesso|
+|Repositório de código fonte|Github|[Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-domesticas)|
+|Documentos do projeto|Google Drive|[Google Drive](https://drive.google.com/drive/u/1/folders/1UxTwJMEI0befRfgNOEOdxKRZW9BWRldS)|
+|Projeto de interface e Wireframes|Figma|[Figma](https://www.figma.com/file/RDZ56R1yrkylvVthPuLZq4/Untitled?node-id=0%3A1)|
+|Gerenciamento de Projetos|Trello|[Trello](https://trello.com/b/1FLxIkyC/trabalho-ads-2-semestre)|
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
@@ -26,14 +30,6 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
