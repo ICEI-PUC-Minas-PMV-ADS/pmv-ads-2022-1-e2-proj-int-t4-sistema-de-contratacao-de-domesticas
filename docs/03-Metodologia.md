@@ -58,7 +58,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
     
 O quadro kanban do grupo no Trello está disponível através da URL [Trello](https://trello.com/b/1FLxIkyC/trabalho-ads-2-semestre) e é apresentado, no estado atual, na figura baixo. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
 
-![Trello](trello.png)
+![Trello](img/trello.png)
 
 ### Processo
 
