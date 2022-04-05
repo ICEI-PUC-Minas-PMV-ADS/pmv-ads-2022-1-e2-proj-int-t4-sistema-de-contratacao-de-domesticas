@@ -60,6 +60,14 @@ O quadro kanban do grupo no Trello está disponível através da URL [Trello](ht
 
 ![Trello](img/trello.png)
 
+As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
+
+- Dev
+- Docs
+- Infra
+- Test
+- Ger. Proj.
+
 ### Processo
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
