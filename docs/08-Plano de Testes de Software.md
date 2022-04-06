@@ -36,7 +36,7 @@
 
 |Caso de Teste |CT-05 – Buscar Serviço |
 |--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** RF-004-  O usuário contratante informe a região que está situada e quais serviços irá precisar.RF-005- O sistema deverá permitir que o contratante filtre as buscas por localização |
+|**Requisitos Associados** | RF-004-  O usuário contratante informe a região que está situada e quais serviços irá precisar.RF-005- O sistema deverá permitir que o contratante filtre as buscas por localização |
 |**Entrada** | Visualizar atraves da extensão do Google Maps. Atraves de um formulário contendo tipos de serviço, região solicitada |
 |**Objetivo do Teste** | Permitir ao usuário (contradata(o,e) verificar serviços disponíveis, definir reigão de atuação.  |
 |**Passos** | 1) Acessar a plataforma 2) Fazer o login 3) Escolher a opção de serviço 4) Visualizar os locais disponíveis.  |
