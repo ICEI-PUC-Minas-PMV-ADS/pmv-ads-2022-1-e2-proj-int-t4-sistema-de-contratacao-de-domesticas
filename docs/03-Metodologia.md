@@ -43,7 +43,6 @@ A equipe está organizada da seguinte maneira:
 -  Scrum Master: Ana Paula
 -  Product Owner: Tiago Miqueias e Raquel Fernades
 -  Equipe de Desenvolvimento
-
         ◦ Felipe Marques
  
 ### Processo
