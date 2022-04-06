@@ -28,4 +28,17 @@
 
 |Caso de Teste |CT-04 – Solicitação de Serviço |
 |--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** | RF-004-  O usuário contratante informe a região que está situada e quais serviços irá precisar |
+|**Requisitos Associados** | RF-004-  O usuário contratante informe a região que está situada e quais serviços irá precisar.RF-005- O sistema deverá permitir que o contratante filtre as buscas por localização |
+**Entrada** | Atraves de um formulário contendo tipos de serviço, região solicitada|
+|**Objetivo do Teste** | Permitir ao usuário a opção de solicitar serviço, especificando se será limpeza simples ou faxina e região desejada. |
+|**Passos** | 1) Acessar o navegador 2) Acessar a plataforma 3) Realizar o login 4) Escolher a opção desejada (solicitar limpeza simples ou faxina) 5) Definir região 7)Confirmar opção desejada 7) Confirmar dia/horário e região desejada.   |
+|**Critérios de Êxito** | "Solicitação concluída". Visualizar se sua solicitação consta em aberto e selecione o prestador de serviço desejado. |
+
+|Caso de Teste |CT-05 – Buscar Serviço |
+|--------------------|----------------------------------------------------------------------|
+|**Requisitos Associados** RF-004-  O usuário contratante informe a região que está situada e quais serviços irá precisar.RF-005- O sistema deverá permitir que o contratante filtre as buscas por localização |
+|**Entrada** | Visualizar atraves da extensão do Google Maps. Atraves de um formulário contendo tipos de serviço, região solicitada |
+|**Objetivo do Teste** | Permitir ao usuário (contradata(o,e) verificar serviços disponíveis, definir reigão de atuação.  |
+|**Passos** | 1) Acessar a plataforma 2) Fazer o login 3) Escolher a opção de serviço 4) Visualizar os locais disponíveis.  |
+|**Critérios de Êxito** | " Busca concluída". Verificar se o solicitante aceitou o serviço desejado. 
+
