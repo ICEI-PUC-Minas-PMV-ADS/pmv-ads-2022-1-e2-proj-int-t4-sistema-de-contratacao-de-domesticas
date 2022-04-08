@@ -25,6 +25,7 @@ Definição do diagrama de personas:
 |--------------------------------------------------|-----------------|
 |Idade: 30                                         |Facebook         |
 |Ocupação: Gerente Financeira de Banco Digital     |Bancos Digitais  |
+|**Motivações:** Amanda precisa de mais tempo livre para terminar seu Doutorado em Finanças. |**Hobbies, História:** ●	Nascida na Suíça, naturalizou-se Brasileira aos dois anos, ingressou no curso de Economia aos 18 anos e, no atual momento, está em processo de conclusão do doutorado. Precisa de auxílio regular em seu lar, uma vez que por estar atuando em home office não encontra tempo para pequenas tarefas e encontra-se em um processo que demanda muito tempo na conclusão de seus estudos.| 
 
 ![Adolfo Luís](img/adolfo.png) 
 |Adolfo Luís                                       | Aplicativos     |
