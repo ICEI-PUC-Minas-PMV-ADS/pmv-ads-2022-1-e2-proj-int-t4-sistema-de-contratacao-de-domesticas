@@ -52,7 +52,7 @@
 
 |Caso de Teste |CT-07 –  Suporte ao usuário. |
 |--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** | |RF-007| O sistema deve fornecer informações de contato para que os usuários possam receber suporte e/ou tirar dúvidas |
+|**Requisitos Associados** | |RF-007 - O sistema deve fornecer informações de contato para que os usuários possam receber suporte e/ou tirar dúvidas |
 |**Entrada** |  Através de um formulário contendo nome, email e campo para digitação da dúvida em questão, onde a equipe poderá responder às dúvidas do usuário. 
 |**Objetivo do Teste** | Permitir ao usuário tire as dúvidas sobre o sistema Limpou.  |
 |**Passos** | 1) Acessar a plataforma 2) Fazer o login 3) Acessar o campo Tire suas dúvidas 4) Preencher os campos 5) Enviar 6)Aguardar o retorno da equipe.  |
