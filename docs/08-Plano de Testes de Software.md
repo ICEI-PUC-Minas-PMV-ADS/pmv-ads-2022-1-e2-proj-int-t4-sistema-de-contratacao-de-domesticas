@@ -42,7 +42,7 @@
 |**Passos** | 1) Acessar a plataforma 2) Fazer o login 3) Escolher a opção de serviço 4) Visualizar os locais disponíveis.  |
 |**Critérios de Êxito** | " Busca concluída". Verificar se o solicitante aceitou o serviço desejado. 
 
-|Caso de Teste |CT-06 –  | Feedbacks dos usuários
+|Caso de Teste |CT-06 –  | Feedbacks dos usuários |
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | RF-006 - O sistema deve disponibilizar campo para fornecimento de feedback dos usuários, tanto do contratante como do prestador ao final do serviço prestado |
 |**Entrada** |  Através de um formulário contendo comentários sobre o trabalho dos(as, es) usuários (as, es) prestadores de serviço e dos contratantes |
@@ -50,7 +50,7 @@
 |**Passos** | 1) Acessar a plataforma 2) Fazer o login 3) Escolher serviço realizado 4) Realizar comentário e/ou avaliação.  |
 |**Critérios de Êxito** | " Comentário Concluído.". Verificar o comentário feito em relação ao serviço ofertado. 
 
-|Caso de Teste |CT-07 –  | Suporte ao usuário.
+|Caso de Teste |CT-07 –  | Suporte ao usuário. |
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | |RF-007| O sistema deve fornecer informações de contato para que os usuários possam receber suporte e/ou tirar dúvidas |
 |**Entrada** |  Através de um formulário contendo nome, email e campo para digitação da dúvida em questão, onde a equipe poderá responder às dúvidas do usuário. 
@@ -58,7 +58,7 @@
 |**Passos** | 1) Acessar a plataforma 2) Fazer o login 3) Acessar o campo Tire suas dúvidas 4) Preencher os campos 5) Enviar 6)Aguardar o retorno da equipe.  |
 |**Critérios de Êxito** | " Sua dúvida foi enviada, aguarde o retorno de nossa equipe.". Verificar a duvida enviada pelo usuário.
 
-|Caso de Teste |CT-08 –  | Sobre Nós.
+|Caso de Teste |CT-08 –  | Sobre Nós. |
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | RF-008 - A aplicação deverá permitir ao usuário visualizar informações sobre a função principal do sistema na tela inicial.|
 |**Entrada** |  Através de um texto informativo sobre o sistema (Limpou), onde o usuário poderá entender melhor sobre o objetivo e função principal do site. 
