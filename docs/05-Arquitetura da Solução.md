@@ -14,7 +14,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa. O MER é o que você quer fazer efetivamente, é a ferramenta para criar modelos de dados e seus relacionamentos, em geral que depois será produzido em um banco de dados relacional
 
-![Modelo ER](img/MERr (2).png)
+![Modelo ER](img\MERr (2).png)
 
 ## Esquema Relacional
 
