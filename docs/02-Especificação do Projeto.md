@@ -9,7 +9,8 @@ Definição do diagrama de personas:
 |--------------------------------------------------|-----------------|
 |Idade: 38                                         |Linkedin         |
 |Ocupação: Gerente de vendas hospitalares.         |Instagram        |
-|**Motivações:** Patrícia busca ter mais tempo para o lazer e ter mais contato com a família e amigos. |**Frustrações:** Patrícia sente-se pressionada no trabalho tendo assim muitas responsabilidades, e não consegue tempo para suas atividades de lazer, tendo que estudar e cuidar de pequenas tarefas no tempo que possui fora do trabalho. |**Hobbies, História:**	Patrícia costuma frequentar bares na região da Savassi com seus amigos e amigas, e frequenta a casa dos pais com certa periodicidade, costuma praticar atletismo como lazer.|
+|**Motivações:** Patrícia busca ter mais tempo para o lazer e ter mais contato com a família e amigos. |**Frustrações:** Patrícia sente-se pressionada no trabalho tendo assim muitas responsabilidades, e não consegue tempo para suas atividades de lazer, tendo que estudar e cuidar de pequenas tarefas no tempo que possui fora do trabalho. 
+|**Hobbies, História:**	Patrícia costuma frequentar bares na região da Savassi com seus amigos e amigas, e frequenta a casa dos pais com certa periodicidade, costuma praticar atletismo como lazer.|
 
 
 ![Amanda Baião](img/amanda.png)
