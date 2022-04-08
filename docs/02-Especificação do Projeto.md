@@ -32,6 +32,7 @@ Definição do diagrama de personas:
 |--------------------------------------------------|-----------------|
 |Idade: 31                                         |Facebook         |
 |Ocupação: Cozinheiro                              |Instagram        |
+|**Motivações:** Conseguir dinheiro para abrir seu próprio restaurante e conseguir melhores condições financeiras para cuidar dos filhos. |**Hobbies, História:** Adolfo, tem um filho de dois anos,  morador da região metropolitana de Belo Horizonte, é  cozinheiro profissional a dois anos. Busca chegar na posição de Chefe de cozinha e abrir restaurante próprio.|
 
 
 
