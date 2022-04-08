@@ -42,6 +42,14 @@
 |**Passos** | 1) Acessar a plataforma 2) Fazer o login 3) Escolher a opção de serviço 4) Visualizar os locais disponíveis.  |
 |**Critérios de Êxito** | " Busca concluída". Verificar se o solicitante aceitou o serviço desejado. 
 
+|Caso de Teste |CT-05 – Buscar Localização |
+|--------------------|----------------------------------------------------------------------|
+|**Requisitos Associados** | RF-005 - O sistema deverá permitir que o usuário filtre as buscas por localização |
+|**Entrada** | Visualizar atraves da extensão do Google Maps. Através de um formulário contendo tipos de serviço, região solicitada |
+|**Objetivo do Teste** | Permitir ao usuário (contradata(o,e) verificar serviços disponíveis, definir reigão de atuação.  |
+|**Passos** | 1) Acessar a plataforma 2) Fazer o login 3) Escolher a opção de serviço 4) Visualizar os locais disponíveis.  |
+|**Critérios de Êxito** | " Busca concluída". Verificar se o solicitante aceitou o serviço desejado. 
+
 |Caso de Teste |CT-06 –  | Feedbacks dos usuários |
 |--------------------|----------------------------------------------------------------------|
 |**Requisitos Associados** | RF-006 - O sistema deve disponibilizar campo para fornecimento de feedback dos usuários, tanto do contratante como do prestador ao final do serviço prestado |
