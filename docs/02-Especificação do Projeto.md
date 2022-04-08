@@ -10,11 +10,14 @@ Definição do diagrama de personas:
 |Idade: 38                                         |Linkedin         |
 |Ocupação: Gerente de vendas hospitalares.         |Instagram        |
 
+
+
 ![Amanda Baião](img/amanda.png)
 |Amanda Baião                                      | Aplicativos     |
 |--------------------------------------------------|-----------------|
 |Idade: 20                                         |Facebook         |
 |Ocupação: Estudante de Antropologia               |GetNinjas        |
+|**Motivações:** Amanda pretende conseguir juntar dinheiro para os processos seletivos de mestrado na Europa  |**Frustrações:** Devido ao alto custo de vida no Brasil, Amanda precisa se desdobrar para conseguir renda extra e conseguir pagar os custos para estudar fora do país, alcançando melhores oportunidades de trabalho.|**Hobbies, História:** Amanda está no 2º período de Antropologia e pleiteia uma bolsa de estudos no British Museum e mestrado na Universidade de Westminster, para isso ela busca trabalhos paralelos ao estágio para conseguir juntar dinheiro para pagar as provas de proficiência e auxílio de estadia no exterior.| 
 
 ![Luiza Aragão](img/luiza.png) 
 |Luiza Aragão                                      | Aplicativos     |
@@ -57,6 +60,7 @@ RF-005| O sistema deverá permitir que o usuário filtre as buscas por localiza�
 |RF-006| O usuário prestador de serviço deve informar o valor diário do seu trabalho e quais serviços fornece    | MÉDIA |
 |RF-006| O sistema deve solicitar um feedback dos usuários, tanto do contratante como do prestador, ao final do serviço prestado   | MÉDIA |
 |RF-007| O sistema deve fornecer informações de contato para que os usuários possam receber suporte e/ou tirar dúvidas   | MÉDIA |
+|RF-008| A aplicação deverá permitir ao usuário visualizar informações sobre a função principal do sistema na tela inicial. | BAIXA |
 
 ### Requisitos não Funcionais
 
