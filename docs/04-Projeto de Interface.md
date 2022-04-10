@@ -24,14 +24,64 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
 
-# Tela de apresentação 2
+#### Tela de apresentação 2
 
 ![Tela de apresentação2](img/nomearquivo.png) //adicione a imagem na pasta img
 
-# Tela inicial
+#### Tela inicial
 
 ![Tela inicial](img/nomearquivo.png) //adicione a imagem na pasta img
 
-# Tela login
+#### Tela login
 
-# Telas iniciais de cadastro e login
+#### Telas iniciais de cadastro e login
+
+#### Tela cadastro
+
+#### Tela esqueci a senha
+
+#### Tela redefinição de senha
+
+#### Localização - Prestador
+ 
+#### Serviços - Prestador
+
+#### Perfil - Prestador
+
+#### Serviços solicitados - Prestador
+ 
+#### Serviço aberto - Prestador
+
+#### Sistema de feedback - Prestador
+
+#### Busca - Contratante
+
+#### Forma de pagamento - Contratante
+
+#### Perfil - Contratante
+
+#### Sistema de feedback - Contratante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
