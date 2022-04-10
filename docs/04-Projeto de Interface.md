@@ -22,93 +22,45 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ### Telas iniciais de cadastro e login
 
-#### Tela de apresentação 
+#### Telas de apresentação 
 
-![Tela de apresentação]![1](https://user-images.githubusercontent.com/62525275/162632196-09a11eec-346b-44d6-b869-3bf63def12d5.jpg) 
+Telas iniciais com rolagem e opção de tirar dúvidas![1](https://user-images.githubusercontent.com/62525275/162632196-09a11eec-346b-44d6-b869-3bf63def12d5.jpg) 
 
-#### Tela de apresentação 2
+#### Telas de login e cadastro de usuários
 
-![Tela de apresentação2](img/nomearquivo.png) //adicione a imagem na pasta img
+![2](https://user-images.githubusercontent.com/62525275/162632199-c814e82f-e7bf-48f5-adaa-9eca9b0ef532.jpg)
 
-#### Tela inicial
+#### Tela "esqueci minha senha" e redefinição de senha
 
-![Tela inicial](img/nomearquivo.png) //adicione a imagem na pasta img
+![3](https://user-images.githubusercontent.com/62525275/162632200-3794acfe-093d-4960-b44d-9fe18184a119.jpg)
 
-#### Tela login
+#### Tela de personalização do usuário 1
 
-![Tela login](img/nomearquivo.png) //adicione a imagem na pasta img
+Localização (Ambos) e tipo de serviço (Prestador)![4](https://user-images.githubusercontent.com/62525275/162632202-586a62b2-8a13-4b61-9128-3c99d4f23cd0.jpg)
 
-#### Telas iniciais de cadastro e login
+#### Tela de personalização do usuário 2
 
-![Telas iniciais de cadastro e login](img/nomearquivo.png) //adicione a imagem na pasta img
+Tipo de serviço solicitado (Contratante) ![5](https://user-images.githubusercontent.com/62525275/162632203-999df90f-8c7e-40c3-bf78-b9a2596ef1b4.jpg)
 
-#### Tela cadastro
+#### Tela de personalização do usuário 3
 
-![Tela cadastro ](img/nomearquivo.png) //adicione a imagem na pasta img
+Formas de pagamento ![6](https://user-images.githubusercontent.com/62525275/162632204-8033f721-f70f-4dcd-bb5d-bead597adde9.jpg)
 
-#### Tela esqueci a senha
+#### Tela de perfil de ambos usuários 
 
-![Tela esqueci a senha](img/nomearquivo.png) //adicione a imagem na pasta img
+![7](https://user-images.githubusercontent.com/62525275/162632206-d20e535c-2661-4390-b0fa-4d50e5cd4411.jpg)
 
-#### Tela redefinição de senha
+#### Tela "Agenda"
 
-![Tela redefinição de senha](img/nomearquivo.png) //adicione a imagem na pasta img
+Solicitar e ler os pedidos feitos ![8](https://user-images.githubusercontent.com/62525275/162632208-7d87079e-87aa-48e0-8f91-b15a4d4eeb99.jpg)
 
-### Personalização usuário e feedback
+### Tela "Feedback"
 
+Ambos os usuários conseguem visualizar seus feedbacks ![9](https://user-images.githubusercontent.com/62525275/162632209-8d4f319a-1184-42f3-b05d-f647f07b31e5.jpg)
 
+#### Tela de pesquisa e opção "Filtrar"
 
-#### Localização - Prestador
-
-![Localização - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
- 
-#### Serviços - Prestador
-
-![Serviços - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
-
-#### Perfil - Prestador
-
-![Perfil - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
-
-#### Serviços solicitados - Prestador
-
-![Serviços solicitados - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
- 
-#### Serviço aberto - Prestador
-
-![Serviço aberto - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
-
-#### Sistema de feedback - Prestador
-
-![Sistema de feedback - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
-
-#### Busca - Contratante
-
-![Busca - Contratante](img/nomearquivo.png) //adicione a imagem na pasta img
-
-#### Forma de pagamento - Contratante
-
-![Forma de pagamento - Contratante](img/nomearquivo.png) //adicione a imagem na pasta img
-
-#### Perfil - Contratante
-
-![Perfil - Contratante](img/nomearquivo.png) //adicione a imagem na pasta img
-
-#### Sistema de feedback - Contratante
-
-![Sistema de feedback - Contratante](img/nomearquivo.png) //adicione a imagem na pasta img
-
-### Sistema
-
-
-#### Principal
-
-![Principal](img/nomearquivo.png) //adicione a imagem na pasta img
-
-#### Filtrar
-
-![Filtrar](img/nomearquivo.png) //adicione a imagem na pasta img
-
+![10](https://user-images.githubusercontent.com/62525275/162632210-d2ad7ee5-261b-47eb-8f1b-f979a6b8139c.jpg)
 
 
 
