@@ -20,7 +20,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
-# Tela de apresentação
+#### Tela de apresentação
 
 ![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
 
