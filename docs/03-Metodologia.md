@@ -9,7 +9,7 @@ A metodologia escolhida por nós neste trabalho, será utilizada para o melhor d
 |--------|----------|--------------|
 |Repositório de código fonte|Github|[Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-domesticas)|
 |Documentos do projeto|Google Drive|[Google Drive](https://drive.google.com/drive/u/1/folders/1UxTwJMEI0befRfgNOEOdxKRZW9BWRldS)|
-|Projeto de interface e Wireframes|Figma|[Figma](https://www.figma.com/file/RDZ56R1yrkylvVthPuLZq4/Untitled?node-id=0%3A1)|
+|Projeto de interface e Wireframes|Figma|[Figma](https://www.figma.com/file/dUcHQDq0alOdRbPMwQLaZx/Limpou---Wireframes?node-id=15%3A2)|
 |Gerenciamento de Projetos|Trello|[Trello](https://trello.com/b/1FLxIkyC/trabalho-ads-2-semestre)|
 
 A ferramenta de controle de versão adotada no projeto foi o
