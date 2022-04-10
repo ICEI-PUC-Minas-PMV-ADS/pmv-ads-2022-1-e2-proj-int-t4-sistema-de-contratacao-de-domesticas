@@ -23,7 +23,7 @@ Quanto tempo foi necessário para conclui-la.
 
 |Tarefa 3| Critério de êxito | O que será avaliado |
 |--------|-------------------|---------------------|
-|Agendar um serviço | O usuário deverá conseguir contratar o serviço indicando dia, hora e local |Concretização da tarefa. Quantidade de erros cometidos. |
+|Agendar um serviço | O usuário deverá escolher o profissional, data, horário e local |Concretização da tarefa. Quantidade de erros cometidos. |
 
 ### Objetivo
 
