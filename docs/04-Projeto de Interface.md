@@ -20,6 +20,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
+## Telas iniciais de cadastro e login
+
 #### Tela de apresentação
 
 ![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
@@ -42,6 +44,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 #### Tela redefinição de senha
 
+### Personalização usuário e feedback
+
 #### Localização - Prestador
  
 #### Serviços - Prestador
@@ -61,6 +65,12 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 #### Perfil - Contratante
 
 #### Sistema de feedback - Contratante
+
+### Sistema
+
+#### Principal
+
+#### Filtrar
 
 
 
