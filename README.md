@@ -3,8 +3,7 @@
 
 ![logo sem fundo](https://user-images.githubusercontent.com/62525275/160643989-10875c1a-c6e4-442d-8977-b6fb471ce47e.png)
  
-
-ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
 Projeto: Desenvolvimento de aplicações interativas - Back-End
 
