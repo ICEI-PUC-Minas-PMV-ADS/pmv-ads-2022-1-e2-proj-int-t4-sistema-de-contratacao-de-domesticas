@@ -5,11 +5,11 @@
  
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-Projeto: Desenvolvimento de aplicações interativas - Back-End
+`Projeto: Desenvolvimento de aplicações interativas - Back-End`
 
-2° Semestre
+`2° Semestre`
 
-O projeto trata de um sistema que fará cadastro de trabalhadores da área da limpeza doméstica (contendo suas informações e currículos) e de clientes que buscam serviços de4 limpeza. Além disso, também ficará disponível a opção de realizar o agendamento do serviço prestado.
+O projeto trata de um sistema que fará cadastro de trabalhadores da área da limpeza doméstica (contendo suas informações e currículos) e de clientes que buscam o serviço. Além disso, também ficará disponível a opção de realizar o agendamento do serviço a ser prestado, onde o usuário deverá escolher o profissional, data, horário e local.
 
 ## Integrantes
 
