@@ -21,6 +21,10 @@ Quanto tempo foi necessário para conclui-la.
 |--------|-------------------|---------------------|
 |Fazer o login no sistema | Conseguir logar no sistema e ser encaminhado para a página de cadastro |Concretização da tarefa. Quantidade de erros cometidos. |
 
+|Tarefa 3| Critério de êxito | O que será avaliado |
+|--------|-------------------|---------------------|
+|Agendar um serviço | O usuário deverá conseguir contratar o serviço indicando dia, hora e local |Concretização da tarefa. Quantidade de erros cometidos. |
+
 ### Objetivo
 
 Fazer melhorias na plataforma proporcionando uma melhor experiência ao usuário. O que será mensurado no teste:
