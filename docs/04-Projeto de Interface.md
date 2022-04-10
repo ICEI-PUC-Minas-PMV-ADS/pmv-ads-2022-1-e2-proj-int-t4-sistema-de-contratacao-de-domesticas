@@ -36,11 +36,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 #### Tela login
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Tela login](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Telas iniciais de cadastro e login
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Telas iniciais de cadastro e login](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Tela cadastro
 
@@ -56,7 +56,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ### Personalização usuário e feedback
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+
 
 #### Localização - Prestador
 
@@ -100,7 +100,6 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ### Sistema
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Principal
 
