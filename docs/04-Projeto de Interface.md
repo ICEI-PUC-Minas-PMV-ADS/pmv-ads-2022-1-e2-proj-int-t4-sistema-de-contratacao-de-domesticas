@@ -22,9 +22,9 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ### Telas iniciais de cadastro e login
 
-#### Tela de apresentação
+#### Tela de apresentação 
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Tela de apresentação]![1](https://user-images.githubusercontent.com/62525275/162632196-09a11eec-346b-44d6-b869-3bf63def12d5.jpg) 
 
 #### Tela de apresentação 2
 
