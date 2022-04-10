@@ -63,7 +63,7 @@ RF-005| O sistema deverá permitir que o usuário filtre as buscas por localiza�
 |RF-006| O usuário prestador de serviço deve informar o valor diário do seu trabalho e quais serviços fornece | MÉDIA |
 |RF-006| O sistema deve solicitar um feedback dos usuários, tanto do contratante como do prestador, ao final do serviço prestado | MÉDIA |
 |RF-007| O sistema deve fornecer informações de contato para que os usuários possam receber suporte e/ou tirar dúvidas | MÉDIA |
-|RF-008| O usuário contratante deverá agendar os serviço desejado de acordo com a disponibilidade do usuário prestador | BAIXA |
+|RF-008| O usuário contratante deverá agendar os serviço desejado de acordo com a disponibilidade do usuário prestador | MÉDIA |
 |RF-009| A aplicação deverá permitir ao usuário visualizar informações sobre a função principal do sistema na tela inicial | BAIXA |
 
 ### Requisitos não Funcionais
