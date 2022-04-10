@@ -44,15 +44,15 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 #### Tela cadastro
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Tela cadastro ](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Tela esqueci a senha
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Tela esqueci a senha](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Tela redefinição de senha
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Tela redefinição de senha](img/nomearquivo.png) //adicione a imagem na pasta img
 
 ### Personalização usuário e feedback
 
@@ -60,50 +60,50 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 #### Localização - Prestador
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Localização - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
  
 #### Serviços - Prestador
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Serviços - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Perfil - Prestador
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Perfil - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Serviços solicitados - Prestador
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Serviços solicitados - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
  
 #### Serviço aberto - Prestador
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Serviço aberto - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Sistema de feedback - Prestador
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Sistema de feedback - Prestador](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Busca - Contratante
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Busca - Contratante](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Forma de pagamento - Contratante
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Forma de pagamento - Contratante](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Perfil - Contratante
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Perfil - Contratante](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Sistema de feedback - Contratante
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Sistema de feedback - Contratante](img/nomearquivo.png) //adicione a imagem na pasta img
 
 ### Sistema
 
 
 #### Principal
 
-![Tela de apresentação](img/nomearquivo.png) //adicione a imagem na pasta img
+![Principal](img/nomearquivo.png) //adicione a imagem na pasta img
 
 #### Filtrar
 
