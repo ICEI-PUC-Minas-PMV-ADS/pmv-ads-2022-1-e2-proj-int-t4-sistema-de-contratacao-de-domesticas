@@ -11,9 +11,9 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 |FLUXO DO USUÁRIO | DESCRIÇÃO | RF |
 |-----------------|-----------|----|
-|Tela inicial| O sistema deve exibir na tela principal as opções de cadastro e login  |RF-00|
-|Tela usuário contratante| O sistema deve permitir que o usuário contratante informe a região que está situada e quais serviços irá precisar |RF-00|
-|Tela usuário anunciante| O usuário prestador de serviço deve informar o valor diário do seu trabalho e quais serviços ela fornece  |00|
+|Tela inicial| O sistema deve exibir na tela principal as opções de cadastro e login e alteração de senha  |RF-001|
+|Tela localização| O sistema deverá permitir que o usuário filtre as buscas por localização |RF-005|
+|Tela perfil prestador| O usuário contratante deverá agendar os serviço desejado de acordo com a disponibilidade do usuário prestador|RF-008|
 
 ![Diagrama de Fluxo](img/diagramafluxo.png) //adicione a imagem na pasta img
 
