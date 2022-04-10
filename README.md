@@ -10,18 +10,18 @@ Projeto: Desenvolvimento de aplicações interativas - Back-End
 
 2° Semestre
 
-O projeto trata de um sistema que fará cadastro de trabalhadores da área da limpeza doméstica, contendo suas informações e currículos.
+O projeto trata de um sistema que fará cadastro de trabalhadores da área da limpeza doméstica (contendo suas informações e currículos) e de clientes que buscam serviços de4 limpeza. Além disso, também ficará disponível a opção de realizar o agendamento do serviço prestado.
 
 ## Integrantes
 
 * Ana Paula dos Santos Buchholz
 * Filipe Marques Martins Pascoal
-* Tiago
-* Raquel Fernandes
+* Tiago Miquéias Viana Rodrigues 
+* Raquel Fernandes Negrão Soares
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
