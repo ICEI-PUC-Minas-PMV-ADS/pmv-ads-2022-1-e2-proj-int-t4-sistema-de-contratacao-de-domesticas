@@ -14,6 +14,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 |Tela inicial| O sistema deve exibir na tela principal as opções de cadastro e login e alteração de senha  |RF-001|
 |Tela localização| O sistema deverá permitir que o usuário filtre as buscas por localização |RF-005|
 |Tela perfil prestador| O usuário contratante deverá agendar os serviço desejado de acordo com a disponibilidade do usuário prestador|RF-008|
+|Tela forma de pagamento| O usuário deverá informar a sua forma de pagamento (dinheiro, pix ou débito) |RF-009|
 
 ![Diagrama de Fluxo](img/diagramafluxo.png) //adicione a imagem na pasta img
 
