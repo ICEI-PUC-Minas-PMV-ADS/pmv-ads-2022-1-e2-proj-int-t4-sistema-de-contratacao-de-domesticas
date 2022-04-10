@@ -18,7 +18,9 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ![Diagrama de Fluxo](img/diagramafluxo.png) //adicione a imagem na pasta img
 
-## Wireframes
+## Wireframes 
+
+Link do Figma para visualizar (https://www.figma.com/file/dUcHQDq0alOdRbPMwQLaZx/Limpou---Wireframes?node-id=15%3A2)
 
 ### Telas iniciais de cadastro e login
 
