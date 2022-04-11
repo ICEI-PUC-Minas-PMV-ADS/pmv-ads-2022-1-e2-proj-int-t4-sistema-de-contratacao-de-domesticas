@@ -95,4 +95,4 @@ A tabela a seguir apresenta as questões que limitam a execução desse projeto 
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](img/Diagrama_de_caso_de_uso.JPG)
+![Diagrama de Casos de Uso](img/DiagramaDeCasosDeUso.jpg)
