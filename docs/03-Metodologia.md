@@ -71,14 +71,16 @@ As tarefas são, ainda, etiquetadas em função da natureza da atividade e segue
 
 As ferramentas empregadas no projeto são:
 
-- Visual Studio.
+- Visual Studio
 - Microsoft Teams
 - Figma (wireframe)
+- Edrawmax (criação de diagramas)
 - Lucidchart (criação de diagramas)
+- Canva (criação de diagramas)
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão, além de possuir extensão .NET que é essencial para o desenvolvimento da aplicação em C#. As ferramentas de comunicação utilizadas possuem
-integração semelhante e é recomendada pela Universidade por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essas ferramentas por melhor captarem as
-necessidades da nossa solução. Para criação do wireframa a ferramenta foi escolhida por permitir a edição colaborativa.
+integração semelhante e são recomendada pela Universidade, por isso foram selecionadas. Por fim, para criar
+diagramas utilizamos as ferramentas que melhor captaram as
+necessidades da nossa solução. Para criação do wireframe a ferramenta foi escolhida por permitir a edição colaborativa.
 
