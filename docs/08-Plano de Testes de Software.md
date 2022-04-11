@@ -60,7 +60,7 @@
 
 |Caso de Teste |CT-08 –  Sobre Nós. |
 |--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** | RF-009 -- O usuário deverá informar a sua forma de pagamento (dinheiro, pix) |
+|**Requisitos Associados** | RF-009 - O usuário deverá informar a sua forma de pagamento (dinheiro, pix) |
 |**Entrada** | Através de um campo no formulário de contratação, onde o contratante poderá informar a forma de pagamento previamente.
 |**Objetivo do Teste** | Permitir que o usuário saiba sobre a forma de pagamento.  |
 |**Passos** | 1) Acessar a plataforma 2) Ir para Página inicial 3) Fazer loguin 4) Solicitar serviço 5) Informar forma de pagamento  |
