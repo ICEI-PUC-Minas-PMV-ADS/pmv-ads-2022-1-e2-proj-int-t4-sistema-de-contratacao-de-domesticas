@@ -56,7 +56,7 @@ Formas de pagamento ![6](https://user-images.githubusercontent.com/62525275/1626
 
 Solicitar e ler os pedidos feitos ![8](https://user-images.githubusercontent.com/62525275/162632208-7d87079e-87aa-48e0-8f91-b15a4d4eeb99.jpg)
 
-### Tela "Feedback"
+#### Tela "Feedback"
 
 Ambos os usuários conseguem visualizar seus feedbacks ![9](https://user-images.githubusercontent.com/62525275/162632209-8d4f319a-1184-42f3-b05d-f647f07b31e5.jpg)
 
