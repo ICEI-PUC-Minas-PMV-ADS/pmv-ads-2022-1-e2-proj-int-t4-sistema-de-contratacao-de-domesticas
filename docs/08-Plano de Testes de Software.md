@@ -60,10 +60,18 @@
 
 |Caso de Teste |CT-08 –  Sobre Nós. |
 |--------------------|----------------------------------------------------------------------|
-|**Requisitos Associados** | RF-008 - A aplicação deverá permitir ao usuário visualizar informações sobre a função principal do sistema na tela inicial.|
+|**Requisitos Associados** | RF-009 -- O usuário deverá informar a sua forma de pagamento (dinheiro, pix) |
+|**Entrada** | Através de um campo no formulário de contratação, onde o contratante poderá informar a forma de pagamento previamente.
+|**Objetivo do Teste** | Permitir que o usuário saiba sobre a forma de pagamento.  |
+|**Passos** | 1) Acessar a plataforma 2) Ir para Página inicial 3) Fazer loguin 4) Solicitar serviço 5) Informar forma de pagamento  |
+
+
+|Caso de Teste |CT-09 –  Sobre Nós. |
+|--------------------|----------------------------------------------------------------------|
+|**Requisitos Associados** | RF-010 - A aplicação deverá permitir ao usuário visualizar informações sobre a função principal do sistema na tela inicial.|
 |**Entrada** |  Através de um texto informativo sobre o sistema (Limpou), onde o usuário poderá entender melhor sobre o objetivo e função principal do site. 
-|**Objetivo do Teste** | Permitir que o usuário conheça a principal função do sistema..  |
-|**Passos** | 1) Acessar a plataforma 2) Ir para Página inicial 4) Rolar para campo " Sobre nós" e acessar o texto  |
+|**Objetivo do Teste** | Permitir que o usuário conheça a principal função do sistema.  |
+|**Passos** | 1) Acessar a plataforma 2) Ir para Página inicial 3) Rolar para campo " Sobre nós" e acessar o texto  |
 
 
 
