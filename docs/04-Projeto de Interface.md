@@ -16,6 +16,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 |Tela perfil prestador| O usuário contratante deverá agendar os serviço desejado de acordo com a disponibilidade do usuário prestador|RF-008|
 |Tela forma de pagamento| O usuário deverá informar a sua forma de pagamento (dinheiro, pix ou débito) |RF-009|
 
+A seguir, uma imagem do diagrama de fluxo elaborado para o projeto
+
 ![Diagrama de Fluxo](img/Fluxograma.png) 
 
 ## Wireframes 
