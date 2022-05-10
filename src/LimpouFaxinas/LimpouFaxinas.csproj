@@ -8,4 +8,9 @@
     <PackageReference Include="EntityFramework" Version="6.4.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Home\css\" />
+    <Folder Include="Views\Home\img\" />
+  </ItemGroup>
+
 </Project>
