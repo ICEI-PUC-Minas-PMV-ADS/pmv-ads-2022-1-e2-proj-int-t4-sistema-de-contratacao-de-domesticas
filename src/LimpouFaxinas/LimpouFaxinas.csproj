@@ -9,8 +9,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Home\css\" />
     <Folder Include="Views\Home\img\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\Index.cshtml.css" />
   </ItemGroup>
 
 </Project>
