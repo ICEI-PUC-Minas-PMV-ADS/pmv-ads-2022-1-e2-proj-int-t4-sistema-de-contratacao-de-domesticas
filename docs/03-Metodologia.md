@@ -41,7 +41,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A equipe está organizada da seguinte maneira:
 
 -  Scrum Master: Ana Paula
--  Product Owner: Tiago Miqueias e Raquel Fernades
+-  Product Owner: Tiago Miqueias e Raquel Fernandes
 -  Equipe de Desenvolvimento: Felipe Marques
  
 ### Processo
