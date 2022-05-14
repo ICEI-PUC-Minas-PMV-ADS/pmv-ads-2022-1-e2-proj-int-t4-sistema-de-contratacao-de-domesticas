@@ -24,7 +24,7 @@ namespace LimpouFaxinas
             //options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))
             //);
 
-            services.AddDbContext<ApplicationDbContext>(options =>
+            services.AddDbContext<ApplicationDbContext>(options => 
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))
             );
 

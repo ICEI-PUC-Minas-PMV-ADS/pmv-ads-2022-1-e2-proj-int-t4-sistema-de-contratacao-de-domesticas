@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace LimpouFaxinas.Models
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext: DbContext 
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options): base(options)
         {
 
         }
 
+        public object Usuarios { get; internal set; }
     }
 }
