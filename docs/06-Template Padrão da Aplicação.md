@@ -18,6 +18,7 @@ Figura 2 - Tipografia
 
 # Ícones e Componentes
 
-Os principais componentes são: Os ícones e logo da Limpou, os botões em branco e rosa dependendo do fundo, placeholder para informações, e inputs radio. 
-![3](https://user-images.githubusercontent.com/62525275/168487700-522a48d5-fef5-4ff9-9036-a333890d9b37.jpg)
+Os principais componentes são: Os ícones e logo da Limpou, os botões em branco e rosa dependendo do fundo, foto de perfil
+do usuário, placeholder para informações, e inputs radio. 
+![3](https://user-images.githubusercontent.com/62525275/168487853-15229bc0-3e3f-41f2-a3d3-58fb2ac27ee1.jpg)
 Figura 3 - Ícones e Componentes
