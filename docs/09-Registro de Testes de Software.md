@@ -1,12 +1,19 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+## 1. Tela inicial para login
+Ao inserir o endereço do site https:// verificamos que a página de login é mostrada perfeitamente e nela podemos inserir os dados: 
+- E-mail: raqueleliza1977@gmail.com  
+- Senha:  123456
+![image](.png)
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+Quando os dados não são inseridos adequadamente, uma mensagem de alerta é mostrada com a seguinte mensagem: *Senha errada*. 
 
-## Avaliação
+Ao abrirmos a página em um dispositivo celular, podemos verificar que a mesma encontra-se responsiva: 
+![image](.png)
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+### :point_right: Observações importantes em Tela Inicial: 
+Neste ponto, a equipe verificou que algumas melhorias podem ser aplicadas: 
+- A mensagem de alerta pode ser alterada para: "*Por favor, insira seus dados corretamente*".
+- Adequar fontes de textos mais harmônicas e padronizar seus tamanhos.  
+#
