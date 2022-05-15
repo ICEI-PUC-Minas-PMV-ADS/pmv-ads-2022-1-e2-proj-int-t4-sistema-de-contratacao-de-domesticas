@@ -70,10 +70,11 @@ button {
   background-color: #FFFFFF;
   color: #D83FA5;
   font-weight: 300;
+  font-size: 36PX;
   padding: 10px 40px;
   border-radius: 10px;
   text-align: center;
-  box-shadow: 10px 10px 5px;
+  box-shadow: 5px 5px 5px;
   margin: 10px 50px 10px 50px;
 }
 .buttons__encontrar--entrar:hover {
@@ -93,6 +94,11 @@ button {
     box-shadow: -8px 5px 10px rgba(0, 0, 0, 0.5);
 	border-radius: 39px;
 }
+.login p {
+  color: #FFFFFF;
+  font-size: 36px;
+  margin: 50px 0px 0px 0px;
+} 
 .emailsenha{
 	display: flex;
 	margin: 50px 5px 0px -15px;
@@ -101,9 +107,22 @@ button {
 }
 .senha{
 	display: flex;
-	margin: -15px 0px 0px 160px;
+	margin: -35px 0px 0px 160px;
 	color: #FFFFFF;
 	font-size: 24px ;
+}
+.cadastro {
+  display: flex;
+	width: 769px;
+  height: 1020px;
+	flex-direction: column;
+	justify-content: center;
+	align-items: stretch;
+	margin: 30px 150px 50px 380px;
+	background-color: #D83FA5;
+	padding: 100px 150px;
+  box-shadow: -8px 5px 10px rgba(0, 0, 0, 0.5);
+	border-radius: 39px;
 }
 .conta{
 	display: flex;
@@ -112,6 +131,7 @@ button {
 	font-size: 24px ;
 }
 
-@media only screen and (max-device-width: 900px) {
-/* .menu { width:100%; } */
+
+@media only screen and (max-device-width: 700px) {
+ .login, .emailsenha, .senha, .buttons, .banner, .cadastro, .conta, #lado { width:100%; }
 }
