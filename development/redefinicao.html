@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -13,7 +13,7 @@
       href="img/Logo.png"
     />
 
-    <title>Login</title>
+    <title>Redefinir senha</title>
 
     <!-- Fonte -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -24,39 +24,24 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="css/styledev.css" />
-    <script type="text/javascript" src="login.js"></script>
 </head>
 <body>
     <section class="banner"><img src="img/logosemfundo.png"></section>
 
     <form class="login">
         <div class="emailsenha">
-                <label for="email">Email</label>
-                <input type="email" name="email" id="email" required>
-                <label for="pass">Senha</label>
-                <input type="password" id="pass" name="password" minlength="8" required>
+            <label for="pass">Nova senha</label>
+            <input type="password" id="pass" name="password" minlength="8" required>
+            <label for="pass">Confirme a senha</label>
+            <input type="password" id="pass" name="password" minlength="8" required>
         </div>
         <div class="buttons__encontrar">
             <a href="" class="buttons__encontrar--entrar"> ENTRAR </a>
         </div>
-        <a href="esquecisenha.html" class="senha">Esqueceu a senha?</a>
     </form>
 
     <footer> 
       <strong>©Limpou! (2022) Todos os direitos reservados.</strong> 
     </footer> 
-    <script>
-      let inputs = document.getElementsByClassName('input-form');
-      for (let input of inputs) {
-        input.addEventListener("blur", function() {
-          if(input.value.trim() != ""){
-            input.classList.add("has-val");
-            window.open("home.html", "_self");
-          } else {
-            input.classList.remove("has-val");
-          }
-        });
-      }
-    </script>
 </body>
 </html>
