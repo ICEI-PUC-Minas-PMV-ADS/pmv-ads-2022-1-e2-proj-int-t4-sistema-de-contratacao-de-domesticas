@@ -4,19 +4,19 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-# Paleta de Cores
+## Paleta de Cores
 
 A paleta de cores conta com 2 cores base e 3 cores primárias que serão colocadas em contraste.
 
 ![1](https://user-images.githubusercontent.com/62525275/168487565-709fd565-b921-487f-8a21-20e373b713af.jpg)
 Figura 1 - Paleta de Cores
 
-# Tipografia
+## Tipografia
 As fontes utilizadas são 2, Bebas Neue para textos e botões, e DK Longreach para Títulos.
 ![2](https://user-images.githubusercontent.com/62525275/168487699-ed4e762e-046c-41a4-a25d-de5a4d717e5c.jpg)
 Figura 2 - Tipografia
 
-# Ícones e Componentes
+## Ícones e Componentes
 
 Os principais componentes são: Os ícones e logo da Limpou, os botões em branco e rosa dependendo do fundo, foto de perfil
 do usuário, placeholder para informações, e inputs radio. 
