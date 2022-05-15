@@ -19,7 +19,7 @@ Quanto tempo foi necessário para conclui-la.
 
 |Tarefa 2| Critério de êxito | O que será avaliado |
 |--------|-------------------|---------------------|
-|Fazer o login no sistema | Conseguir logar no sistema e ser encaminhado para a página de cadastro |Concretização da tarefa. Quantidade de erros cometidos. |
+|Fazer o login no sistema | Conseguir logar no sistema e ser encaminhado para a próxima página |Concretização da tarefa. Quantidade de erros cometidos. |
 
 |Tarefa 3| Critério de êxito | O que será avaliado |
 |--------|-------------------|---------------------|
