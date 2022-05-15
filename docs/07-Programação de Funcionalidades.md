@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-##versao1 - Documentação de Programação de Funcionalidades
+## versao1 - Documentação de Programação de Funcionalidades
 
 * RF002 - Atualmente o sistema já conta com o front-end completo dos formulários de cadastro de usuário, login e alteração de senha, feito em HTML, CSS e JavaScript.
 
