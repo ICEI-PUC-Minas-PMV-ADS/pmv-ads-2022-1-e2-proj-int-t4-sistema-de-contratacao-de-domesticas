@@ -13,7 +13,7 @@ Ao verificamos no MySQL podemos ver que os dados de cadastro são armazenados pe
 
 ![image](img/teste01_banco_de_dados_CADASTRO.png)
 
-### Observações importantes em Cadastro do usuário 
+### Observações importantes em Cadastro do usuário:
 
 Neste ponto, a equipe verificou que algumas melhorias podem ser aplicadas: 
 
@@ -26,28 +26,28 @@ Neste ponto, a equipe verificou que algumas melhorias podem ser aplicadas:
 
 ## CT-03 – Esqueceu Senha 
 
-### Observações importantes em Esqueceu Senha 
+### Observações importantes em Esqueceu Senha:
 
 ## CT-04 – Solicitação de Serviço 
 
-### Observações importantes em Solicitação de Serviço 
+### Observações importantes em Solicitação de Serviço: 
 
 ## CT-05 – Buscar Localização 
 
-### Observações importantes em Buscar Localização 
+### Observações importantes em Buscar Localização:
 
 ## CT-06 – Feedbacks dos usuários 
 
-### Observações importantes em Feedbacks dos usuários 
+### Observações importantes em Feedbacks dos usuários: 
 
 ## CT-07 – Suporte ao usuário. 
 
-### Observações importantes em Suporte ao usuário. 
+### Observações importantes em Suporte ao usuário: 
 
 ## CT-08 – Sobre Nós 
 
-### Observações importantes em Sobre Nós 
+### Observações importantes em Sobre Nós:
 
 ## CT-09 – Sobre Nós 
 
-### Observações importantes em Sobre Nós 
+### Observações importantes em Sobre Nós: 
