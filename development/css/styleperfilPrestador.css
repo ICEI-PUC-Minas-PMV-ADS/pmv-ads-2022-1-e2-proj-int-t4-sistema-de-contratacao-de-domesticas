@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2? família=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2? família=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    font-size: 100%;
+    overflow-x: hidden;
+    }
+    
+.cabecalho {
+    display: flex;
+    background-color: rgb(214, 23, 173);
+    width: 100%;
+  
+    
+}
+
+.logo_cabecalho {
+text-align: center;
+   height: 200px;
+   padding: 30px;
+}
+
+.circulo {
+    display: flex;
+    float: right;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+    
+}
+.texto_barra{
+    
+        display: inline-block;
+        font-family: 'Anton', sans-serif;
+        color: #ffffff;
+        font-size: 20px;    
+}
+
+.texto_barra1{
+
+        display: inline-block;
+        font-family: 'Anton', sans-serif;
+        color: #ffffff;
+        font-size: 20px;
+        margin-left: 150px;
+        margin-right: 30px;
+        margin-top: 20px;
+        
+}
+
+.cabecalho_menu {
+    background-color: rgb(214, 23, 173);
+   margin: auto;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 110px;
+    margin-left: 450px;
+
+}
+
+.perfil{
+   float: left;
+   text-align: center;  
+    width: 150px;
+    height: 150px;
+    background-color:rgb(214, 23, 173) ;
+    border-radius: 50%;
+    color: #ffffff;
+}
+
+.feedback{
+   float: right;
+    text-align: center; 
+    margin-top: 50px;
+    margin-left: 10px;   
+}
+
+
+.feedback button {
+    
+    width: 105px;
+    height: 40px;
+    background-color: rgb(214, 23, 173);
+    font-size:15px;
+    color: white;
+    border: none;
+    font-family: 'Anton', sans-serif;
+    border-radius: 20px;
+      
+}
+
+.textoPerfil {
+    padding: 50px;
+    color:rgb(214, 23, 173);
+    font-family: 'Anton', sans-serif;
+    float: left;
+    margin-right: 10px;
+    margin-left: -200px;
+    width: 400px;
+    height: 200px;
+    
+}
+
+.CidadeCep {
+    text-align: left;
+    margin-right: 10px;
+    margin: 5px;
+}
+
+.CityCep {
+display: inline-block;
+
+}
+
+
+.divSecundaria{
+    text-align: center;
+    margin: -80px;
+}
+
+.quadrado{
+    display: inline-block;
+    font-family: 'Anton', sans-serif;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(214, 23, 173) ;
+    margin: 20px;
+    border-radius: 40px;
+    color: #ffffff;
+}
+
+.quadrado1 {
+    display: inline-block;
+    font-family: 'Anton', sans-serif;
+    width: 400px;
+    height: 200px;
+    background-color:rgb(214, 23, 173) ;
+    margin: 20px;
+    border-radius: 40px;
+    color: #ffffff;
+}
+
+.Salvar{
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+
+.Salvar button {
+    width: 105px;
+    height: 40px;
+    background-color: rgb(214, 23, 173);
+    font-size:15px;
+    color: white;
+    border: none;
+    font-family: 'Anton', sans-serif;
+    border-radius: 20px;
+    margin-top: 80px;
+    
+}
+
+.quadrado p {
+    font-size: 20px;
+    padding: 25px;
+    
+}
+
+.quadrado1 p {
+    font-size: 20px;
+    padding: 25px;
+    
+}
+
+li {
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding-top: 140px;
+    padding-bottom: 20px;
+    font-family: 'Anton', sans-serif;
+    color: rgb(214, 23, 173)
+}
