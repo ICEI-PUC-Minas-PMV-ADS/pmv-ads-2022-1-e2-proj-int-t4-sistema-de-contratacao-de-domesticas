@@ -1,4 +1,5 @@
 ﻿using Limpou_Faxinas.Context;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Limpou_Faxinas;
@@ -15,10 +16,22 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
 
-       services.AddDbContext<AppDbContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("DefautlConnecion")));
+
+        services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+           
+
+        //Referenciando ao Sql
+        //services.AddDbContext<AppDbContext>(options =>
+        //    options.UseSqlServer(Configuration.GetConnectionString("DefautlConnecion")));
 
         services.AddControllersWithViews();
+    }
+
+    private void AddEntityFrameworkStores<T>()
+    {
+        throw new NotImplementedException();
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,4 +61,8 @@ public class Startup
                 pattern: "{controller=Home}/{action=Index}/{id?}");
         });
     }
+}
+
+internal class UserDbContext
+{
 }

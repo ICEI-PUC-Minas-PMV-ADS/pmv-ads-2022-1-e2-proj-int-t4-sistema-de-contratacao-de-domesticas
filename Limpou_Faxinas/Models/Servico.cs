@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
 using Xunit;
 
 namespace Limpou_Faxinas.Models
@@ -35,10 +36,13 @@ namespace Limpou_Faxinas.Models
 
 
         public bool DataDisponibilidade { get; set; }
-                    
+
         public List<Usuario> Usuarios { get; set; }
 
-        
-        
+
+        //Codigo do Professor
+        //public Dbset<Serviço> Serviços { get; set; }
+
+
     }
 }
