@@ -1,4 +1,4 @@
-﻿@import url('https://fonts.googleapis.com/css2? família=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2? família=Anton&display=swap');
 @import url('https://fonts.googleapis.com/css2? família=Roboto&display=swap');
 
 * {
@@ -51,26 +51,6 @@ section{
     
 }
 
-
-.div_principal{
-    height: 500px;
-    width: 1000px;
-    background-color: rgb(214, 23, 173);
-    border-radius: 10px;
-    color: white;
-
-    
-}
-
-.div_secundaria{
-height: 500px;
-width: 500px;
-background-color: rgb(228, 228, 228);
-border-radius: 10px;
-
-
-}
-
 .botao_comecar{
     position: relative;
     text-align: center;
@@ -79,7 +59,7 @@ border-radius: 10px;
 .botao_comecar button {
     position: absolute;
     top: 45%;
-    left: 450px;
+    left: 420px;
     width: 105px;
     height: 50px;
     background-color: white;
@@ -91,20 +71,65 @@ border-radius: 10px;
 
 }
 
+.container{
+text-align: center;
+}
+
+.tela {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-color:#C8C4C7;
+    margin: 0px;
+    border-radius: 30px;
+}
+
+.telarosa{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-color:rgb(214, 23, 173) ;
+    margin: auto;
+    margin-left: -40px;
+    border-radius: 30px;
+}
+
 .vassoura {
-    width: 600px;
-    position: absolute;
-    top: 35px;
-    left: 40px;
-    max-width: 100%;
+    float: left;
+    margin-top: -100px;
+    width: 500px;
+    position: relative;
+    margin-bottom: auto;
+    
 }
 
 .dinheiro {
+    float: right;
+    margin-top: 10px;
     width: 300px;
-    position: absolute;
-    top: 224px;
-    left: 650px;
-    max-width: 100%;
+    right: 20%;
+    position: relative;
+    margin-bottom: auto;
+
+    
+}
+
+h1 {
+    font-size: 20px;
+    margin-left: -35px;
+    padding: 30px;
+    font-family: 'Anton', sans-serif;
+    color: rgb(66, 66, 66);
+
+}
+
+p {
+    font-size: 20px;
+    margin-right: -35px;
+    padding: 30px;
+    font-family: 'Anton', sans-serif;
+    color: white;
+
 }
 
 article{
@@ -116,26 +141,27 @@ article{
 }
 
 .explicacao{
-    height: 600px;
-    width: 1000px;
+    height: 500px;
+    max-width: 1000px;
     background-color: rgb(241, 241, 241);
     color: rgb(214, 23, 173);
     font-family: 'Anton', sans-serif;
     padding-top: 200px;
-    padding-left: 40px;
+    padding-left: 80px;
     padding-right: 40px;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .botao_duvida{
-    position: relative;
+    position: absolute;
     text-align: center;
 }
 
+
+
 .botao_duvida button {
-    position: absolute;
-    top: 570px;
-    left: 450px;
+    position: relative;
+    justify-content: center;
     width: 105px;
     height: 50px;
     background-color: rgb(214, 23, 173);
@@ -144,6 +170,7 @@ article{
     font-family: 'Anton', sans-serif;
     border-radius: 20px;
     box-shadow: 0 0 10px grey;
+    margin-top: -20px;
 
 }
 
@@ -200,3 +227,5 @@ margin-right: -280px;
 
 
 }
+
+
