@@ -7,6 +7,7 @@ namespace Limpou_Faxinas.Models
     public class Usuario
     {
         [Key]
+        [Required(ErrorMessage = "Informar Usuário ")]
         public int UsuarioId { get; set; }
 
         [StringLength(70, ErrorMessage = "O tamanho máximo é de 70 caracteres")]
@@ -25,8 +26,11 @@ namespace Limpou_Faxinas.Models
 
 
         //Um usuario pode cadastrar vários serviços
-        
+
+        [Required(ErrorMessage = "Informe o preço do serviço")]
         public int ServicoId { get; set; }
+
+        [Required(ErrorMessage = "Informe o preço do serviço")]
         public virtual Servico Servico { get; set; }
     }
 }

@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore.Migrations;
+﻿using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
@@ -15,13 +14,9 @@ namespace Limpou_Faxinas.Migrations
                 {
                     ServicoId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    DataHora = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Agendar = table.Column<bool>(type: "bit", nullable: false),
-                    tipoDeServico = table.Column<int>(type: "int", nullable: false),
-                    Descricao = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: false),
-                    Preco = table.Column<decimal>(type: "decimal(10,2", nullable: false),
-                    ImagemUrl = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DataDisponibilidade = table.Column<bool>(type: "bit", nullable: false)
+                    tipo_de_servico = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Descricao = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Preco = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
