@@ -1,6 +1,11 @@
 ﻿using Limpou_Faxinas.Context;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Limpou_Faxinas;
 public class Startup
@@ -20,7 +25,18 @@ public class Startup
         services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-           
+        services.Configure<CookiePolicyOptions>(options =>
+        {
+            options.CheckConsentedNeeded = context => true;
+            options.MinimumSameSitePolicy = SameSiteMode.None;
+        });
+
+        services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+            .AddCookie(options =>
+            {
+                options.AccessDeniedPath = "/Usuarios/AccessDenied";
+                options.LoginPath = "/Usuarios/Login";
+            });
 
         //Referenciando ao Sql
         //services.AddDbContext<AppDbContext>(options =>
@@ -52,7 +68,11 @@ public class Startup
 
         app.UseRouting();
 
+        app.UseCookiePolicy();
+
         app.UseAuthorization();
+
+        app.UseAuthentication();
 
         app.UseEndpoints(endpoints =>
         {
@@ -63,6 +83,8 @@ public class Startup
     }
 }
 
-internal class UserDbContext
-{
+    internal class UserDbContext
+    {
+        
+    }
 }
