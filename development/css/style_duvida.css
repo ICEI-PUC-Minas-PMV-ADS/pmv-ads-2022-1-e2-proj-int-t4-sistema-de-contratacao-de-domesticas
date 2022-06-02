@@ -45,26 +45,64 @@ text-align: center;
 
 section{
     display: flex;
-    width: 100%;
-    height: 300px;
-    padding: 50px;
     justify-content: center;
+    margin: 50px;
 }
-.duvida {
-  
-  font-family: 'Anton', sans-serif;
-  padding: 50px;
-  text-align: center;
-  width: 600px;
-  color: #ffffff;
-  font-size: 20px;
-  background-color:rgb(213, 23, 173);
-  border-radius: 10px;
+
+.duvida{
+width: 900px;   
+height: 700px;
+padding: 50px; 
+background-color: rgb(214, 23, 173);
+border-radius: 15px;
 
 }
 
-input {
-   float: center;
+h1 {
+font-family: 'Anton', sans-serif;
+text-align: center;
+color: #ffffff;
+font-size: 30px;
+}
+
+h2 {
+padding-top: 50px;
+font-family: 'Anton', sans-serif;
+text-align: center;
+color: #ffffff;
+font-size: 20px;
+}
+
+h3 {
+    padding-top: 50px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    }
+    
+    h4 {
+        padding-top: 50px;
+        font-family: 'Anton', sans-serif;
+        text-align: center;
+        color: #ffffff;
+        font-size: 20px;
+        }
+        h5 {
+            padding-top: 50px;
+            font-family: 'Anton', sans-serif;
+            text-align: center;
+            color: #ffffff;
+            font-size: 20px;
+            }
+    
+
+p{
+padding-top: 30px;
+font-family: 'Anton', sans-serif;
+text-align: center;
+color: #ffffff;
+font-size: 20px;
 }
 
 .button {
