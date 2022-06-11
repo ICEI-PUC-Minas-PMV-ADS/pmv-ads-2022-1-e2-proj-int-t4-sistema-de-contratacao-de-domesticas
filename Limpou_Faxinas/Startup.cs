@@ -61,12 +61,7 @@ namespace Limpou_Faxinas
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
-            app.UseStaticFiles(new StaticFileOptions
-            {
-                FileProvider = new PhysicalFileProvider(Path.Combine(
-                AppDomain.CurrentDomain.BaseDirectory,
-                "wwwroot")),
-            });
+            app.UseStaticFiles();
 
             app.UseRouting();
 
