@@ -18,12 +18,17 @@ namespace Limpou_Faxinas.Models
         [Required(ErrorMessage = "Informe o nome do usuário")]
         public string Endereco { get; set; }
 
-        public int CPF { get; set; }
+        [StringLength(11, ErrorMessage = "O tamanho máximo é de 11 caracteres")]
+        [Required(ErrorMessage = "Insira o CPF do usuário")]
+        public string CPF { get; set; }
 
         [StringLength(200, ErrorMessage = "O tamanho máximo é de 200 caracteres")]
         [Required(ErrorMessage = "Informe o nome do usuário")]
         public int Avaliacao { get; set; }
 
+        [StringLength(12, ErrorMessage = "O tamanho máximo é de 12 caracteres")]
+        [Required(ErrorMessage = "Insira a senha")]
+        public string Senha { get; set; }
 
         //Um usuario pode cadastrar vários serviços
 

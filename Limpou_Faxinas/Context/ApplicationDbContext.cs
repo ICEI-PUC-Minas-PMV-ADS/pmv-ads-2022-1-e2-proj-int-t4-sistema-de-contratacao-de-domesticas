@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Limpou_Faxinas.Context
 {
-    public class AppDbContext: DbContext
+    public class ApplicationDbContext: DbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
         //public DbSet<Models.Servico> Servicos { get; set; }

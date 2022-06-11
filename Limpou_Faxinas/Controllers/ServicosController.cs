@@ -7,14 +7,16 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Limpou_Faxinas.Context;
 using Limpou_Faxinas.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Limpou_Faxinas.Controllers
 {
+    [Authorize]
     public class ServicosController : Controller
     {
-        private readonly AppDbContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public ServicosController(AppDbContext context)
+        public ServicosController(ApplicationDbContext context)
         {
             _context = context;
         }
@@ -141,7 +143,7 @@ namespace Limpou_Faxinas.Controllers
         {
             if (_context.Servicos == null)
             {
-                return Problem("Entity set 'AppDbContext.Servicos'  is null.");
+                return Problem("Entity set 'ApplicationDbContext.Servicos'  is null.");
             }
             var servico = await _context.Servicos.FindAsync(id);
             if (servico != null)
