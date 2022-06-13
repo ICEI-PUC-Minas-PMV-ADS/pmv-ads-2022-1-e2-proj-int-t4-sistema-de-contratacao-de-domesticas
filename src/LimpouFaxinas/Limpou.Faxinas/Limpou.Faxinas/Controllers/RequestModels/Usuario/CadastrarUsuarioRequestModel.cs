@@ -27,7 +27,7 @@ namespace Limpou.Faxinas.Controllers.RequestModels.Usuario
             if (string.IsNullOrWhiteSpace(PerfilUsuario))
                 erros.Add("O campo perfil do usuario deve ser preenchido");
             if (!string.Equals(PerfilUsuario, "CLIENTE") && !string.Equals(PerfilUsuario, "FUNCIONARIO"))
-                erros.Add("O campo perfil do usuario deve ser exadamente um dos: 'CLIENTE' ou 'FUNCIONARIO'");
+                erros.Add("O campo perfil do usuario deve ser exatamente um dos: 'CLIENTE' ou 'FUNCIONARIO'");
 
             if (EnderecoUsuario != null)
             {

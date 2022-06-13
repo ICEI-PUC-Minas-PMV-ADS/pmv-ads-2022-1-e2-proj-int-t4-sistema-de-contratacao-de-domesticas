@@ -28,6 +28,16 @@ namespace Limpou.Faxinas.Controllers
             return View();
         }
 
+        public IActionResult Duvidas()
+        {
+            return View();
+        }
+
+        public IActionResult FormaDePagamento()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
