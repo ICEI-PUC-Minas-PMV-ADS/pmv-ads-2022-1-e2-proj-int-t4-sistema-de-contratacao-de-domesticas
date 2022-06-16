@@ -1,0 +1,54 @@
+﻿
+<head>
+    <meta charset="utf-8" />
+    @*<meta http-equiv="X-UA-Compatible" content="IE=edge" />*@
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    @*<!-- Favicon -->*@
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="~/Imagens/logo.png"
+    />
+
+
+    <title>Página Inicial</title>
+
+  
+    <link rel="stylesheet" href="~/css/Stylehome.css" />
+</head>
+<body>
+      <section class="banner"><img src="~/Imagens/logosemfundo.png"></section>
+
+      <h2>Como você deseja se conectar?</h2>
+      <section class="buttons">
+
+      <div class="buttons__encontrar">
+
+       @* <a href="#" class="buttons__encontrar--buscar">Buscar vagas</a>*@
+
+      
+        <a href="#" class="buttons__encontrar--contratar"> Entrar </a>
+      
+        <a class="buttons__encontrar--buscar" asp-controller="Servicos" asp-action="Create">Cadastrar Serviço</a>
+      </div>
+      </section>
+
+  
+      <section class="buttons">
+
+      <div class="buttons__encontrar" type>
+
+        <a class="buttons__encontrar--buscar" asp-controller="Usuarios" asp-action="Create">Cadastrar</a>
+
+        <a class="buttons__encontrar--buscar" asp-controller="Home" asp-action="Duvidas">Duvidas</a>
+
+
+
+        
+      </div>
+      </section>              
+</body>
+
+
+ 
