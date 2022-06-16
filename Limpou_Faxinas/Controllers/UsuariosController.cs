@@ -58,6 +58,9 @@ namespace Limpou_Faxinas.Controllers
         {
             if (ModelState.IsValid)
             {
+                usuario.CPF = BCrypt.Net.BCrypt.HashPassword(usuario.CPF);
+                usuario.Senha = BCrypt.Net.BCrypt.HashPassword(usuario.Senha);
+
                 _context.Add(usuario);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -97,6 +100,9 @@ namespace Limpou_Faxinas.Controllers
             {
                 try
                 {
+                    usuario.Senha = BCrypt.Net.BCrypt.HashPassword(usuario.Senha);
+                    usuario.CPF = BCrypt.Net.BCrypt.HashPassword(usuario.CPF);
+
                     _context.Update(usuario);
                     await _context.SaveChangesAsync();
                 }
