@@ -16,6 +16,8 @@ namespace Limpou_Faxinas.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Demanda = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Endereço = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Bairro = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Cidade = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Preco = table.Column<double>(type: "float", nullable: false)
                 },
                 constraints: table =>

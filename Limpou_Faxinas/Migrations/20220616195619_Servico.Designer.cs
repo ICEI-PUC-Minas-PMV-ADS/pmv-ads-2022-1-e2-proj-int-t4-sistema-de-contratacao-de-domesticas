@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Limpou_Faxinas.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220615233202_Servico")]
+    [Migration("20220616195619_Servico")]
     partial class Servico
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -30,6 +30,14 @@ namespace Limpou_Faxinas.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ServicoId"), 1L, 1);
+
+                    b.Property<string>("Bairro")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Cidade")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Demanda")
                         .IsRequired()

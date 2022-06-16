@@ -54,7 +54,7 @@ namespace Limpou_Faxinas.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ServicoId,Demanda,Endereço,Preco")] Servico servico)
+        public async Task<IActionResult> Create([Bind("ServicoId,Demanda,Endereço,Bairro,Cidade,Preco")] Servico servico)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace Limpou_Faxinas.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ServicoId,Demanda,Endereço,Preco")] Servico servico)
+        public async Task<IActionResult> Edit(int id, [Bind("ServicoId,Demanda,Endereço,Bairro,Cidade,Preco")] Servico servico)
         {
             if (id != servico.ServicoId)
             {

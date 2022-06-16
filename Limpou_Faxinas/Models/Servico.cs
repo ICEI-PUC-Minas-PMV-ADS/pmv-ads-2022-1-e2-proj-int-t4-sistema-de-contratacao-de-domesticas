@@ -16,8 +16,14 @@ namespace Limpou_Faxinas.Models
         [Required(ErrorMessage = "Obrigatório descrever o tipo do serviço ")]
         public string Demanda { get; set; }
 
-        [Required(ErrorMessage = "Obrigatório descrever a cidade do serviço ")]
-        public string Endereço { get; set; }
+        [Required(ErrorMessage = "Descreva a rua e numero do local de trabalho ")]
+        public string Endereço{ get; set; }
+
+        [Required(ErrorMessage = "Obrigatório descrever o bairro")]
+        public string Bairro { get; set; }
+
+        [Required(ErrorMessage = "Obrigatório descrever a cidade")]
+        public string Cidade { get; set; }
 
         [Required(ErrorMessage = "Informe o preço do serviço")]
         [Display(Name = "Preço")]       
