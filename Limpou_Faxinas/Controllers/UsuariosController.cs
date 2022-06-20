@@ -12,6 +12,11 @@ namespace Limpou_Faxinas.Controllers
 {
     public class UsuariosController : Controller
     {
+        public IActionResult Login()
+        {
+            return View();
+        }
+
         private readonly AppDbContext _context;
 
         public UsuariosController(AppDbContext context)
