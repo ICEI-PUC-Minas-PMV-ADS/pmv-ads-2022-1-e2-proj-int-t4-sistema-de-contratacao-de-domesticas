@@ -13,11 +13,14 @@ header {
 
 .cabecalho {
     text-align: center;
+<<<<<<< HEAD
    
 }
 
 .cabecalho a {
     margin: auto;
+=======
+>>>>>>> d6bb5156e19e436d900dd78144e3bd879d7af3a8
 }
 
 .link {
