@@ -1,47 +1,41 @@
 ﻿
 <head>
-    <meta charset="utf-8" />
-    @*<meta http-equiv="X-UA-Compatible" content="IE=edge" />*@
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    @*<!-- Favicon -->*@
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="~/Imagens/logo.png"
-    />
-
-
-    <title>Página Inicial</title>
-
-  
+    @*<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />*@
     <link rel="stylesheet" href="~/css/Stylehome.css" />
+    <title>Página Inicial</title>
 </head>
+
+
 <body>
-      <section class="banner"><img src="~/Imagens/logosemfundo.png"></section>
+    <header>
+        <div class="cabecalho"> 
+        <a class="link" asp-controller="Home" asp-action="Duvidas">Dúvidas</a>
+        <a class="link" asp-controller="Home" asp-action="FormaDePagamento">Formas de pagamento</a>
+        </div>
+    </header>
 
-      <h2>Como você deseja se conectar?</h2>
-      <section class="buttons">
 
-      <div class="buttons__encontrar">
-
-       @* <a href="#" class="buttons__encontrar--buscar">Buscar vagas</a>*@
-
+    <section>
       
+        <div class="banner">
+          <img src="~/Imagens/logosemfundo.png">
+          </div>
+
+      <h1>Como você deseja se conectar?</h1>
+      
+      
+      <div class="containerOfButtons">
               
-      <a class="buttons__encontrar--buscar" asp-controller="Servicos" asp-action="Create">Cadastrar Serviço</a>
+      
+        <div class ="button"> <a class="buttons__encontrar--buscar" asp-controller="Login" asp-action="Cadastro">Cadastrar Serviço </a> </div>
 
-      <a class="buttons__encontrar--buscar" asp-controller="Home" asp-action="Duvidas">Duvidas</a>
-    
-    </div>
-      </section>
+       <div class ="button"> <a class="buttons__encontrar--buscar" asp-controller="Usuarios" asp-action="Create">Buscar Serviço</a> </div>
 
-  
-      <section class="buttons">
-
-     
-      </section>              
+ 
+      </div> 
+      
+  </section>
 </body>
-
 
  
