@@ -11,10 +11,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 |FLUXO DO USUÁRIO | DESCRIÇÃO | RF |
 |-----------------|-----------|----|
-|Tela inicial| O sistema deve exibir na tela principal as opções de cadastro e login e alteração de senha  |RF-001|
-|Tela localização| O sistema deverá permitir que o usuário filtre as buscas por localização |RF-005|
-|Tela perfil prestador| O usuário contratante deverá agendar os serviço desejado de acordo com a disponibilidade do usuário prestador|RF-008|
-|Tela forma de pagamento| O usuário deverá informar a sua forma de pagamento (dinheiro, pix ou débito) |RF-009|
+|Tela inicial| O sistema deve exibir na tela principal as opções de cadastro e busca de serviços  |RF-001|
+|Tela dúvidas| O sistema deve exibir algumas perguntas frequentes e suas respostas |RF-005|
+|Tela buscar serviços| O sistema deve exibir dados cadastrados e serviços cadastrados de usuários prestadores|RF-008|
+|Tela forma de pagamento| O sistema deve exibir uma explicação de como é feito o pagamento |RF-009|
+|Tela cadastrar dados| O sistema deve exibir duas opções de cadastros, cadastrar usuário e cadastrar serviços |RF-010|
 
 A seguir, uma imagem do diagrama de fluxo elaborado para o projeto
 
@@ -22,49 +23,34 @@ A seguir, uma imagem do diagrama de fluxo elaborado para o projeto
 
 ## Wireframes 
 
-Link do Figma para visualizar (https://www.figma.com/file/dUcHQDq0alOdRbPMwQLaZx/Limpou---Wireframes?node-id=15%3A2)
 
 ### Telas iniciais de cadastro e login
 
 #### Telas de apresentação 
 
-Telas iniciais com rolagem e opção de tirar dúvidas![1](https://user-images.githubusercontent.com/62525275/162632196-09a11eec-346b-44d6-b869-3bf63def12d5.jpg) 
+Telas inicial com opção de botão para Cadastrar Dados, Buscar Serviço, opção Dúvidas e Forma de Pagamento ![Tela inicial](https://user-images.githubusercontent.com/62525275/175456291-4c233c1d-68c4-4462-af49-99e15ec57fed.png)
 
-#### Telas de login e cadastro de usuários
+#### Telas de escolher a forma de cadastro com 2 botões, Cadastrar Usuário e Cadastrar Serviços
 
-![2](https://user-images.githubusercontent.com/62525275/162632199-c814e82f-e7bf-48f5-adaa-9eca9b0ef532.jpg)
+![Tela formas de cadastro](https://user-images.githubusercontent.com/62525275/175456287-2632ce3f-7397-4e3a-823e-961ac3ae28c0.png)
 
-#### Tela "esqueci minha senha" e redefinição de senha
+#### Tela Dúvidas
 
-![3](https://user-images.githubusercontent.com/62525275/162632200-3794acfe-093d-4960-b44d-9fe18184a119.jpg)
+![Tela duvidas](https://user-images.githubusercontent.com/62525275/175456282-6857e4b5-6811-4723-8a3e-7a703a5361d1.png)
 
-#### Tela de personalização do usuário 1
+#### Tela Formas de Pagamento
 
-Localização (Ambos) e tipo de serviço (Prestador)![4](https://user-images.githubusercontent.com/62525275/162632202-586a62b2-8a13-4b61-9128-3c99d4f23cd0.jpg)
+![Tela formas de pagamento](https://user-images.githubusercontent.com/62525275/175456289-6899c5ba-13d8-42c2-be82-c734c3ea4cbb.png)
 
-#### Tela de personalização do usuário 2
+#### Tela Cadastrar Usuário
 
-Tipo de serviço solicitado (Contratante) ![5](https://user-images.githubusercontent.com/62525275/162632203-999df90f-8c7e-40c3-bf78-b9a2596ef1b4.jpg)
+![Tela cadastrar usuario](https://user-images.githubusercontent.com/62525275/175456280-e20e8ba5-62b8-4b2a-9f28-43d89a69834c.png)
 
-#### Tela de personalização do usuário 3
+#### Tela Cadastrar Serviço
 
-Formas de pagamento ![6](https://user-images.githubusercontent.com/62525275/162632204-8033f721-f70f-4dcd-bb5d-bead597adde9.jpg)
+![Tela cadastrar serviço](https://user-images.githubusercontent.com/62525275/175456275-95c925d2-cfcb-4c8f-8b24-5e8cbb77e295.png)
 
-#### Tela de perfil de ambos usuários 
 
-![7](https://user-images.githubusercontent.com/62525275/162632206-d20e535c-2661-4390-b0fa-4d50e5cd4411.jpg)
-
-#### Tela "Agenda"
-
-Solicitar e ler os pedidos feitos ![8](https://user-images.githubusercontent.com/62525275/162632208-7d87079e-87aa-48e0-8f91-b15a4d4eeb99.jpg)
-
-#### Tela "Feedback"
-
-Ambos os usuários conseguem visualizar seus feedbacks ![9](https://user-images.githubusercontent.com/62525275/162632209-8d4f319a-1184-42f3-b05d-f647f07b31e5.jpg)
-
-#### Tela de pesquisa e opção "Filtrar"
-
-![10](https://user-images.githubusercontent.com/62525275/162632210-d2ad7ee5-261b-47eb-8f1b-f979a6b8139c.jpg)
 
 
 
