@@ -12,6 +12,10 @@
 
   <ItemGroup>
     <Content Remove="Views\Shared\_Home.cshtml" />
+    <Content Remove="wwwroot\css\site.css" />
+    <Content Remove="wwwroot\css\stilos1.css" />
+    <Content Remove="wwwroot\css\Style18.css" />
+    <Content Remove="wwwroot\css\styledev.css" />
   </ItemGroup>
 
   <ItemGroup>
