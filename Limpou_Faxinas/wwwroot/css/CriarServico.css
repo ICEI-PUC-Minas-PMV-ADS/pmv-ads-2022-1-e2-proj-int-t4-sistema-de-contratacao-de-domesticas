@@ -1,0 +1,28 @@
+﻿* {
+    margin: 0;
+    width: 100%;
+}
+
+.row {
+    margin: 10px;
+    justify-content: center;
+}
+
+h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+h4 {
+    color: dimgray;
+    text-align: center;
+    margin-top: 30px;
+}
+
+form {
+    margin: 30px;
+}
+
+.btn btn-primary {
+    background: white;
+}

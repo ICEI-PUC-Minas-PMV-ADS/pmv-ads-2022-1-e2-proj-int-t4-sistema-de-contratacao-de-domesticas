@@ -1,0 +1,27 @@
+﻿* {
+    margin: 0;
+}
+
+h1 {
+    margin-top:70px;
+}
+
+.Div2Botoes{
+    display: block;
+    text-align:center;
+    margin-top: 100px;
+
+}
+
+.button {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-color: rgb(214, 23, 173);
+    margin: 30px;
+    padding: 40px;
+    border-radius: 30px;
+    text-decoration-color: white;
+    font-family:Anton;
+    font-size: 15px;
+}
