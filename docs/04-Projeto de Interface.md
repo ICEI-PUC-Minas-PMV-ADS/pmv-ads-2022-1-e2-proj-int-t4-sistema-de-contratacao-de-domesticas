@@ -24,8 +24,6 @@ A seguir, uma imagem do diagrama de fluxo elaborado para o projeto
 ## Wireframes 
 
 
-### Telas iniciais de cadastro e login
-
 #### Telas de apresentação 
 
 Telas inicial com opção de botão para Cadastrar Dados, Buscar Serviço, opção Dúvidas e Forma de Pagamento ![Tela inicial](https://user-images.githubusercontent.com/62525275/175456291-4c233c1d-68c4-4462-af49-99e15ec57fed.png)
