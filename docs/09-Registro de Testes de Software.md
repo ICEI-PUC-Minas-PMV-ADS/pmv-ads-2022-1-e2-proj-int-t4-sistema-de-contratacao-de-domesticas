@@ -4,8 +4,6 @@
 
 Na tela inicial o usuário poderá selecionar os botões de cadastro e para selecionar os serviços. 
 
-
-
 ![image](img sistema/PaginaIncial.png)
 
 ### Observações importantes em Cadastro do usuário:
