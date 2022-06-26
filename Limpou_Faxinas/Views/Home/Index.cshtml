@@ -1,49 +1,54 @@
 ﻿
 <head>
     <meta charset="utf-8" />
+    @*<meta http-equiv="X-UA-Compatible" content="IE=edge" />*@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="~/css/Stylehome.css" />
+    @*<!-- Favicon -->*@
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="~/Imagens/logo.png"
+    />
+
+
     <title>Página Inicial</title>
+
+  
+    <link rel="stylesheet" href="~/css/Stylehome.css" />
 </head>
-
-
 <body>
-    <header>
-        <div class="cabecalho"> 
-        <a class="link" asp-controller="Home" asp-action="Duvidas">Dúvidas</a>
-        <a class="link" asp-controller="Home" asp-action="Pagamento">Formas de pagamento</a>
-        </div>
-    </header>
-   
+      <section class="banner"><img src="~/Imagens/logosemfundo.png"></section>
 
+      <h2>Como você deseja se conectar?</h2>
+      <section class="buttons">
 
-    <section>
+      <div class="buttons__encontrar">
+
+       @* <a href="#" class="buttons__encontrar--buscar">Buscar vagas</a>*@
+
       
-        <div class="banner">
-          <img src="~/Imagens/logosemfundo.png">
-          </div>
-
-      <h1>Como você deseja se conectar?</h1>
+        <a href="#" class="buttons__encontrar--contratar"> Entrar </a>
       
-      
-      <div class="containerOfButtons">
-              
-      
-       
+        <a class="buttons__encontrar--buscar" asp-controller="Servicos" asp-action="Create">Cadastrar Serviço</a>
+      </div>
+      </section>
 
-         <div class ="button"> <a class="buttons__encontrar--buscar" asp-controller="Home" asp-action="OpcaoDeCadastros">Cadastrar Dados</a> </div>
+  
+      <section class="buttons">
 
-         <div class ="button"> <a class="buttons__encontrar--buscar" asp-controller="Servicos" asp-action="Create">Buscar Serviço </a> </div>
-       
+      <div class="buttons__encontrar" type>
 
- 
-      </div> 
-      
-  </section>
-      
+        <a class="buttons__encontrar--buscar" asp-controller="Usuarios" asp-action="Create">Cadastrar</a>
 
- 
-   
+        <a class="buttons__encontrar--buscar" asp-controller="Home" asp-action="Duvidas">Duvidas</a>
+
+
+
+        
+      </div>
+      </section>              
 </body>
+
 
  

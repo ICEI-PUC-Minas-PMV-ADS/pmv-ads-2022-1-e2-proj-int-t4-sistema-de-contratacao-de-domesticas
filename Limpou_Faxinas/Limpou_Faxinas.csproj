@@ -4,7 +4,6 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>cd92cc94-050e-4d5e-a96e-e3c1c3785d1c</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,10 +12,6 @@
 
   <ItemGroup>
     <Content Remove="Views\Shared\_Home.cshtml" />
-    <Content Remove="wwwroot\css\site.css" />
-    <Content Remove="wwwroot\css\stilos1.css" />
-    <Content Remove="wwwroot\css\Style18.css" />
-    <Content Remove="wwwroot\css\styledev.css" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,7 +21,6 @@
   <ItemGroup>
     <PackageReference Include="1" Version="1.0.0" />
     <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
-    <PackageReference Include="CL.Sinks.MySql.Backup.MySqlConnector" Version="2.0.4" />
     <PackageReference Include="HtmlAgilityPack" Version="1.11.43" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.6">
@@ -40,7 +34,6 @@
     </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.6" />
-    <PackageReference Include="MySqlConnector" Version="2.1.10" />
     <PackageReference Include="ReflectionIT.Mvc.Paging" Version="6.0.1" />
   </ItemGroup>
 

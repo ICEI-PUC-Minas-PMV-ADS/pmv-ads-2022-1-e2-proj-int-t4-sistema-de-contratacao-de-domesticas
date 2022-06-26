@@ -19,6 +19,12 @@ body {
     border-radius: 10px;
 }
 
+.logo_cabecalho {
+    text-align: center;
+    height: 200px;
+    padding: 70px;
+    
+}
 
 .texto_barra{
     
@@ -41,21 +47,20 @@ body {
 section{
     display: flex;
     justify-content: center;
-    margin: auto;
+    margin: 30px;
 }
 
 .duvida {
     width: 900px;
-    height: 900px;
+    height: 700px;
     padding: 50px;
     background-color: rgb(214, 23, 173);
     border-radius: 40px;
-    margin: auto;
     }
 
 h1 {
 font-family: 'Anton', sans-serif;
-text-align: center;
+text-align: left;
 color: #ffffff;
 font-size: 40px;
 }
@@ -63,7 +68,7 @@ font-size: 40px;
 h2 {
 padding-top: 20px;
 font-family: 'Anton', sans-serif;
-text-align: center;
+text-align: left;
 color: #ffffff;
 font-size: 35px;
 }
@@ -98,6 +103,22 @@ font-family: 'Anton', sans-serif;
 text-align: center;
 color: #ffffff;
 font-size: 20px;
+}
+
+.button {
+    position: relative;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.button button {
+    width: 60px;
+    height: 30px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    color: rgb(213, 23, 173);
+    box-shadow: 0px 0px 5px rgb(121, 120, 120) ;
 }
 
 

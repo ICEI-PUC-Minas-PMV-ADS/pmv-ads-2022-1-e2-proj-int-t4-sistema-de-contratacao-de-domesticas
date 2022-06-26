@@ -23,22 +23,16 @@
                 <input asp-for="Senha" class="form-control" />
                 <span asp-validation-for="Senha" class="text-danger"></span>
             </div>
-           <br/>
+            
             <div class="form-group">
-                <input type="submit" value="Entrar" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-
-
-    <br/><br/>
-
-    <a class="buttons__encontrar--buscar" asp-controller="Home" asp-action="Index">Página Incial</a>
-
-
+    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
