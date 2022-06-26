@@ -6,7 +6,7 @@ Na tela inicial o usuário poderá selecionar os botões de cadastro e para sele
 
 
 
-![image](img sistema/PaginaInicial.png)
+![image](img sistema/PaginaIncial.png)
 
 ### Observações importantes em Cadastro do usuário:
 
