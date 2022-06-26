@@ -2,13 +2,8 @@
 
 ## versão 1.0 - Documentação de Programação de Funcionalidades
 
-* RF001 - Atualmente o sistema já conta com o front-end completo dos formulários de cadastro de usuário, login e alteração de senha, feito em HTML e CSS. Além do banco de dados criado utilizando o MySQL.
-* RF002 - 
-* RF003 - 
-* RF004 -  
-* RF005 - 
-* RF006 - 
-* RF007 - 
-* RF008 - 
-* RF009 -
-* RF010 -  
+* RF001 - Sistema conta com front-end executado com HTML5 e CSS3.
+* RF002 - Sistema desenvolvido com padrão de arquitetura de software MVC.
+* RF003 - O sistema contou para seu desenvolvimento local o MySQL. 
+* RF004 - Hospedagem do sistema e banco de dados feitos pela Azure. 
+ 
