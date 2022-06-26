@@ -1,15 +1,12 @@
 # Registro de Testes de Software 
 
-## CT-01 – Cadastro do usuário 
+## CT-01 – Tela Inicial
 
-Ao verificamos no MySQL podemos ver que os dados de cadastro são armazenados perfeitamente, na tela podemos inserir os dados: 
+Na tela inicial o usuário poderá selecionar os botões de cadastro e para selecionar os serviços. 
 
-* Nome: Teste do Sistema 
-* E-mail: teste.do.sistema@gmail.com 
-* Senha: protegida 
-* Endereço: 424 
-* Telefone de contato: 31997648475 
-* Sexo: feminino 
+[Tela inicial](https://user-images.githubusercontent.com/62525275/175456291-4c233c1d-68c4-4462-af49-99e15ec57fed.png)
+
+
 
 ![image](img/teste01_banco_de_dados_CADASTRO.png)
 
@@ -24,6 +21,12 @@ Neste ponto, a equipe verificou que algumas melhorias podem ser aplicadas:
 
 ### Observações importantes em Tela Inicial: 
 
+* Nome: Teste do Sistema 
+* E-mail: teste.do.sistema@gmail.com 
+* Senha: protegida 
+* Endereço: 424 
+* Telefone de contato: 31997648475 
+* Sexo: feminino 
 
 
 ## CT-04 – Solicitação de Serviço 
