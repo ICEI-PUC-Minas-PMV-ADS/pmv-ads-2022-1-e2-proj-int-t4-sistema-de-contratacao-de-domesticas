@@ -4,11 +4,9 @@
 
 Na tela inicial o usuário poderá selecionar os botões de cadastro e para selecionar os serviços. 
 
-[Tela inicial](https://user-images.githubusercontent.com/62525275/175456291-4c233c1d-68c4-4462-af49-99e15ec57fed.png)
 
 
-
-![image](img/teste01_banco_de_dados_CADASTRO.png)
+![image](img sistema/PaginaInicial.png)
 
 ### Observações importantes em Cadastro do usuário:
 
