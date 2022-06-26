@@ -4,7 +4,7 @@
 
 Na tela inicial o usuário poderá selecionar os botões de cadastro e para selecionar os serviços. 
 
-![logo sem fundo](https://user-images.githubusercontent.com/62525275/160643989-10875c1a-c6e4-442d-8977-b6fb471ce47e.png)
+![Tela formas de cadastro](https://user-images.githubusercontent.com/62525275/175456287-2632ce3f-7397-4e3a-823e-961ac3ae28c0.png)
 
 ### Observações importantes em Cadastro do usuário:
 
