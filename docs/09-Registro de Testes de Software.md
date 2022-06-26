@@ -15,6 +15,8 @@ Neste ponto, a equipe verificou que algumas melhorias podem ser aplicadas:
 
 ## CT-02 - Tela inicial para login 
 
+![image](img sistema/PaginaIncial.png)
+
 ### Observações importantes em Tela Inicial: 
 
 * Nome: Teste do Sistema 
