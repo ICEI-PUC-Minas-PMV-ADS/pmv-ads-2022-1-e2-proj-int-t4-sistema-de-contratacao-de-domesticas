@@ -14,6 +14,8 @@ Neste ponto, a equipe verificou que algumas melhorias podem ser aplicadas:
 
 ## CT-02 - Tela inicial para Cadastro
 
+Ao acessar o botão de cadastro, o usuário terá a opção de realizar seu cadastro pessoal  (colaborador ou empregador) e cadastrar o serviço desejado. 
+
 ![Tela formas de cadastro](https://user-images.githubusercontent.com/62525275/175456287-2632ce3f-7397-4e3a-823e-961ac3ae28c0.png)
 
 ### Observações importantes em Tela Inicial: 
