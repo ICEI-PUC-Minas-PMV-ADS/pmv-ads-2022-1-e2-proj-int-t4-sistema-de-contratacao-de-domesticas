@@ -4,7 +4,7 @@
 
 Na tela inicial o usuário poderá selecionar os botões de cadastro e para selecionar os serviços. 
 
-![PaginaInicial](https://github.com/ICEI-PUC-Minas-PMV-ADS-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-domesticas/img sistema/PaginaIncial.png)
+![logo sem fundo](https://user-images.githubusercontent.com/62525275/160643989-10875c1a-c6e4-442d-8977-b6fb471ce47e.png)
 
 ### Observações importantes em Cadastro do usuário:
 
