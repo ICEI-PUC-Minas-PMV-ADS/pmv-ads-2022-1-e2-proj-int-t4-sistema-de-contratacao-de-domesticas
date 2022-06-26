@@ -4,7 +4,7 @@
   "parameters": {
     "resourceGroupName": {
       "type": "string",
-      "defaultValue": "limpoufaxinas_group",
+      "defaultValue": "DefaultResourceGroup-CQ",
       "metadata": {
         "_parameterType": "resourceGroup",
         "description": "Nome do grupo de recursos do recurso. É recomendável colocar os recursos no mesmo grupo de recursos para melhor acompanhamento."

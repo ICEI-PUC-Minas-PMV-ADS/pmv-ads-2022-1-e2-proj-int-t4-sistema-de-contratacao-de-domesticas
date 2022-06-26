@@ -54,8 +54,8 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .button {
-    display: inline-block;
-    width: 200px;
+    display: inline/*-block*/;
+    width: 150px;
     height: 100px;
     background-color: rgb(214, 23, 173);
     margin: 30px;
