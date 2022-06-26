@@ -4,7 +4,7 @@
 
 Na tela inicial o usuário poderá selecionar os botões de cadastro e para selecionar os serviços. 
 
-![image](img sistema/PaginaIncial.png)
+![PaginaInicial](pmv-ads-2022-1-e2-proj-int-t4-sistema-de-contratacao-de-domesticas/img sistema/)
 
 ### Observações importantes em Cadastro do usuário:
 
