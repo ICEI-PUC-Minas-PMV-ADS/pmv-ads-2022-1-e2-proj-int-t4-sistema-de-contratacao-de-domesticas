@@ -24,21 +24,13 @@ Neste ponto, a equipe verificou que algumas melhorias podem ser aplicadas:
 
 ### Observações importantes em Tela Inicial: 
 
-## CT-03 – Esqueceu Senha 
 
-### Observações importantes em Esqueceu Senha:
 
 ## CT-04 – Solicitação de Serviço 
 
 ### Observações importantes em Solicitação de Serviço: 
 
-## CT-05 – Buscar Localização 
 
-### Observações importantes em Buscar Localização:
-
-## CT-06 – Feedbacks dos usuários 
-
-### Observações importantes em Feedbacks dos usuários: 
 
 ## CT-07 – Suporte ao usuário. 
 
